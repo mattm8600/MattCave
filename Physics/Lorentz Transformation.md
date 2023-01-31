@@ -1,7 +1,7 @@
 #Physics 
 
 When you get close to the speed of light, the [[Galilean Coordinate Transformation]] breaks
-– The **Lorentz Transformation** takes [[special relativity]] into account for distance, time, and velocity
+– The **Lorentz Transformation** takes [[Special Relativity]] into account for distance, time, and velocity
 - The time dilation and length contraction formulas are simplified versions of Lorentz
 
 ## $x' = \gamma(x-ut)$
