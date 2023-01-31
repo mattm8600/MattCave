@@ -19,11 +19,9 @@
             "id": "dd99f6c7086b72e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Physics/B-Field Parallel Wires.md",
-                "mode": "source",
-                "source": false
+                "file": "RB 2023-01-31 15.00.13 1-page-001.jpg"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics/B-Field Parallel Wires.md",
+                "file": "RB 2023-01-31 15.00.13 1-page-001.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics/B-Field Parallel Wires.md",
+                "file": "RB 2023-01-31 15.00.13 1-page-001.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics/B-Field Parallel Wires.md"
+                "file": "RB 2023-01-31 15.00.13 1-page-001.jpg"
               }
             }
           },
@@ -168,6 +166,7 @@
   },
   "active": "dd99f6c7086b72e9",
   "lastOpenFiles": [
+    "Physics/B-Field Parallel Wires.md",
     "Physics/Lenz’s Law.md",
     "Math/Parametric Vector Form.md",
     "Images/Pasted image 20221216002604.png",
@@ -176,7 +175,6 @@
     "Computer Science/Computer Science.md",
     "Differential Equations Notes.md",
     "Math/Introduction to Diff Eq.md",
-    "Math/Math.md",
-    "Home Page.md"
+    "Math/Math.md"
   ]
 }
