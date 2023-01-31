@@ -62,5 +62,7 @@
     "nonfailing",
     "learne"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Images"
 }
