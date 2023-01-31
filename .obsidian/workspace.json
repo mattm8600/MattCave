@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Equations Notes.md",
+                "file": "Computer Science/Abstract Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Equations Notes.md",
+                "file": "Computer Science/Abstract Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Equations Notes.md",
+                "file": "Computer Science/Abstract Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Equations Notes.md"
+                "file": "Computer Science/Abstract Classes.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "dd99f6c7086b72e9",
   "lastOpenFiles": [
-    "Introduction to Diff Eq.md",
+    "Computer Science/Fundamental Data Structures.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Abstract Classes.md",
     "Differential Equations Notes.md",
+    "Introduction to Diff Eq.md",
     "Math/Math.md",
     "Home Page.md",
     "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf",
     "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf",
-    "Calendar/2023-01-29 Get textbooks.md",
-    "Calendar.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Calendar/2023-01-29 Get textbooks.md"
   ]
 }
