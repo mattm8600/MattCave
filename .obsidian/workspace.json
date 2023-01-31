@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Parametric Vector Form.md",
+                "file": "Physics/Lenz’s Law.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Parametric Vector Form.md",
+                "file": "Physics/Lenz’s Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Parametric Vector Form.md",
+                "file": "Physics/Lenz’s Law.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Parametric Vector Form.md"
+                "file": "Physics/Lenz’s Law.md"
               }
             }
           },
@@ -168,6 +168,8 @@
   },
   "active": "47231324e41cd02e",
   "lastOpenFiles": [
+    "Math/Parametric Vector Form.md",
+    "Images/Pasted image 20221216002604.png",
     "Physics/Lenz’s Law.md",
     "Computer Science/Abstract Classes.md",
     "Computer Science/Fundamental Data Structures.md",
@@ -175,8 +177,6 @@
     "Differential Equations Notes.md",
     "Math/Introduction to Diff Eq.md",
     "Math/Math.md",
-    "Home Page.md",
-    "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf",
-    "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf"
+    "Home Page.md"
   ]
 }
