@@ -1,7 +1,7 @@
 #Physics 
 
 ![[Pasted image 20221216120427.png]]
-Light reflects from the upper and lower surfaces of the film, undergoing [[interference]]
+Light reflects from the upper and lower surfaces of the film, undergoing [[Interference]]
 
 The interference depends on the phase shift of the light:
 - Case 1: $n_a$ > $n_b$ → No interference
