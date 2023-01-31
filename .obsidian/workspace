@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "9e58a1add34a3a6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b0f7eaf62dae24b",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cd162a862b5937c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1505881c4dab29f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47231324e41cd02e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "781aca61d74fda28",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f69760e5e0a66b8c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "77cea0b7e609d822",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5e304766757d008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "794f84d3dc1dc095",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cfadfd3e94ead34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1cb9293fb41dc13f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4efb4a2938d3753b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7b0f7eaf62dae24b",
+  "lastOpenFiles": [
+    "Computer Science/Computer Science.md",
+    "Home Page.md",
+    "Physics/Physics.md",
+    "Physics/Electrodynamics, Light, Relativity, and Modern Physics.md",
+    "Computer Science/Fundamental Data Structures.md",
+    "Math/Linear Algebra.md",
+    "Engineering/Mechanical Engineering.md",
+    "Engineering/Dynamics.md",
+    "Math/Math.md"
+  ]
+}
