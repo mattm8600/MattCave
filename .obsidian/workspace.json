@@ -25,8 +25,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +163,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "dd99f6c7086b72e9",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
     "Physics/B-Field Parallel Wires.md",
     "Physics/Lenz’s Law.md",
