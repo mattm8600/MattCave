@@ -19,11 +19,16 @@
             "id": "dd99f6c7086b72e9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Math/Introduction to Diff Eq.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math/Introduction to Diff Eq.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Math/Introduction to Diff Eq.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Math/Introduction to Diff Eq.md"
+              }
             }
           },
           {
@@ -158,8 +166,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5ae60c9990b25c1",
+  "active": "dd99f6c7086b72e9",
   "lastOpenFiles": [
+    "Differential Equations Notes.md",
+    "Math/Introduction to Diff Eq.md",
     "Physics/Physics.md",
     "RB 2023-01-31 15.00.13 1-page-001 1.jpg",
     "RB 2023-01-31 15.00.13 1-page-001.jpg",
@@ -167,8 +177,6 @@
     "Physics/B-Field Parallel Wires.md",
     "Physics/Lenz’s Law.md",
     "Math/Parametric Vector Form.md",
-    "Images/Pasted image 20221216002604.png",
-    "Computer Science/Abstract Classes.md",
-    "Computer Science/Fundamental Data Structures.md"
+    "Images/Pasted image 20221216002604.png"
   ]
 }
