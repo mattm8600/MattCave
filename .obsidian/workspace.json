@@ -19,13 +19,12 @@
             "id": "dd99f6c7086b72e9",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "RB 2023-01-31 15.00.13 1-page-001.jpg"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -54,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Calendar",
+                "query": "tag:#Physics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +70,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -91,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RB 2023-01-31 15.00.13 1-page-001.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RB 2023-01-31 15.00.13 1-page-001.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +128,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RB 2023-01-31 15.00.13 1-page-001.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -163,17 +159,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5ae60c9990b25c1",
+  "active": "781aca61d74fda28",
   "lastOpenFiles": [
+    "Physics/Physics.md",
+    "RB 2023-01-31 15.00.13 1-page-001 1.jpg",
+    "RB 2023-01-31 15.00.13 1-page-001.jpg",
+    "Untitled.canvas",
     "Physics/B-Field Parallel Wires.md",
     "Physics/Lenz’s Law.md",
     "Math/Parametric Vector Form.md",
     "Images/Pasted image 20221216002604.png",
     "Computer Science/Abstract Classes.md",
-    "Computer Science/Fundamental Data Structures.md",
-    "Computer Science/Computer Science.md",
-    "Differential Equations Notes.md",
-    "Math/Introduction to Diff Eq.md",
-    "Math/Math.md"
+    "Computer Science/Fundamental Data Structures.md"
   ]
 }
