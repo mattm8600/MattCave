@@ -23,8 +23,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -53,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Physics",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,7 +158,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "781aca61d74fda28",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
     "Physics/Physics.md",
     "RB 2023-01-31 15.00.13 1-page-001 1.jpg",
