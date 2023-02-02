@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Equations Notes/Differential Equations.md",
+                "file": "Differential Equations Notes/Homogeneous ODE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4fe1f9987210df42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Materials/Materials Engineering.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Equations Notes/Differential Equations.md",
+                "file": "Computer Science/Materials/Materials Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Equations Notes/Differential Equations.md",
+                "file": "Computer Science/Materials/Materials Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Equations Notes/Differential Equations.md"
+                "file": "Computer Science/Materials/Materials Engineering.md"
               }
             }
           },
@@ -166,12 +178,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9034ce5103afdeee",
+  "active": "4fe1f9987210df42",
   "lastOpenFiles": [
     "Differential Equations Notes/Homogeneous ODE.md",
+    "Differential Equations Notes/Differential Equations.md",
     "Differential Equations Notes/Linear ODE.md",
     "Calendar/2023-01-31 Sync Obsidian with Cloud.md",
-    "Differential Equations Notes/Differential Equations.md",
     "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf",
     "Differential Equations Notes/RB 2023-01-31 15.00.13 1.pdf",
     "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf",
