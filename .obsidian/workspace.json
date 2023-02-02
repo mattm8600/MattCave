@@ -19,15 +19,26 @@
             "id": "dd99f6c7086b72e9",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf"
+              }
+            }
+          },
+          {
+            "id": "5dee5b36085620e8",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Introduction to Diff Eq.md",
+                "file": "Differential Equations Notes/Linearity with ODEs.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "77cea0b7e609d822",
@@ -93,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math/Introduction to Diff Eq.md",
+                "file": "Differential Equations Notes/Linearity with ODEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math/Introduction to Diff Eq.md",
+                "file": "Differential Equations Notes/Linearity with ODEs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math/Introduction to Diff Eq.md"
+                "file": "Differential Equations Notes/Linearity with ODEs.md"
               }
             }
           },
@@ -165,17 +177,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5ae60c9990b25c1",
+  "active": "5dee5b36085620e8",
   "lastOpenFiles": [
+    "Differential Equations Notes/Differential Equations.md",
+    "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf",
+    "Differential Equations Notes/RB 2023-01-31 15.00.13 1.pdf",
+    "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf",
+    "Linear Algebra/Introduction to Diff Eq.md",
     "Differential Equations Notes.md",
-    "Math/Introduction to Diff Eq.md",
-    "Physics/Physics.md",
+    "Physics 3/Physics.md",
     "RB 2023-01-31 15.00.13 1-page-001 1.jpg",
     "RB 2023-01-31 15.00.13 1-page-001.jpg",
-    "Untitled.canvas",
-    "Physics/B-Field Parallel Wires.md",
-    "Physics/Lenz’s Law.md",
-    "Math/Parametric Vector Form.md",
-    "Images/Pasted image 20221216002604.png"
+    "Untitled.canvas"
   ]
 }
