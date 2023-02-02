@@ -1,5 +1,6 @@
 My notes for the introduction to Materials Engineering.
 [[Introduction to Materials]]
+[[Electron Configurations]]
 [[Atomic Bonding]]
 [[Ionic Bonding]]
 [[Covalent Bonding]]
