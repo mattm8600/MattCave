@@ -1,4 +1,4 @@
-An Ordinary Differential Equation is **linear** when the variables and their derivatives are *only* multiplied by constants.
+An Ordinary Differential Equation is **linear** when the variables and their derivatives are *only* multiplied by constants or only functions of t.
 
 Looks like the following form:
 ## $p(t)\frac{dy}{dt}+q(t)y = r(t)$ ##
@@ -14,5 +14,4 @@ Examples:
 ### $x^" + x = 0$ is linear 
 ### $x^"+sin(x) = 0$ is not linear
 ### $x^" + 2x'+x = sin(t)$ is linear
-
 

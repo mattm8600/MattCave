@@ -3,4 +3,4 @@
 These are my notes for MATH246
 
 Topics:
-[[ODE Classifications]]
+[[ODE Linearity]]
