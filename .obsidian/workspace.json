@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "dd99f6c7086b72e9",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
     "Differential Equations Notes.md",
     "Math/Introduction to Diff Eq.md",
