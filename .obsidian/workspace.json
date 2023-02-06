@@ -26,33 +26,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "9034ce5103afdeee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Differential Equations Notes/Homogeneous ODE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4fe1f9987210df42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Materials Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,7 +165,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "75028d4be4d6efb7",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
     "Differential Equations Notes/Homogeneous ODE.md",
     "Differential Equations Notes/Untitled.md",
