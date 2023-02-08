@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C or Assembly/Feb 8 Discussion Notes.md",
+                "file": "Differential Equations Notes/Homogeneous ODE.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C or Assembly/Feb 8 Discussion Notes.md",
+                "file": "Differential Equations Notes/Homogeneous ODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C or Assembly/Feb 8 Discussion Notes.md",
+                "file": "Differential Equations Notes/Homogeneous ODE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C or Assembly/Feb 8 Discussion Notes.md"
+                "file": "Differential Equations Notes/Homogeneous ODE.md"
               }
             }
           },
@@ -180,14 +180,14 @@
   },
   "active": "2ce200e0a97a53b7",
   "lastOpenFiles": [
-    "C or Assembly/printf function.md",
-    "C or Assembly/Feb 8 Discussion Notes.md",
-    "Differential Equations Notes/Homogeneous ODE.md",
-    "Differential Equations Notes/Untitled.md",
-    "Differential Equations Notes/Differential Equations.md",
-    "Differential Equations Notes/Linear ODE.md",
-    "Calendar/2023-01-31 Sync Obsidian with Cloud.md",
     "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf",
+    "Differential Equations Notes/Linear ODE.md",
+    "Differential Equations Notes/Differential Equations.md",
+    "Differential Equations Notes/Homogeneous ODE.md",
+    "C or Assembly/Feb 8 Discussion Notes.md",
+    "C or Assembly/printf function.md",
+    "Differential Equations Notes/Untitled.md",
+    "Calendar/2023-01-31 Sync Obsidian with Cloud.md",
     "Differential Equations Notes/RB 2023-01-31 15.00.13 1.pdf",
     "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf"
   ]
