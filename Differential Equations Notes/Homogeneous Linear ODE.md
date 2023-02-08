@@ -15,4 +15,4 @@ Find the general solution for:
 3. Put the solution into general form:
 ### $p=e^{5t}c$
 
-- Note: This is just a special case of [[Nonhomogeneous ODE]]
+- Note: This is just a special case of [[Nonhomogeneous 1st Order ODE]]

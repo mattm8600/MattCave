@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Equations Notes/Nonhomogeneous ODE.md",
+                "file": "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Equations Notes/Nonhomogeneous ODE.md",
+                "file": "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Equations Notes/Nonhomogeneous ODE.md",
+                "file": "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Equations Notes/Nonhomogeneous ODE.md"
+                "file": "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md"
               }
             }
           },
@@ -182,7 +182,7 @@
   "lastOpenFiles": [
     "Differential Equations Notes/Differential Equations.md",
     "Differential Equations Notes/Homogeneous Linear ODE.md",
-    "Differential Equations Notes/Nonhomogeneous ODE.md",
+    "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
     "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf",
     "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf",
     "Differential Equations Notes/Linear ODE.md",
