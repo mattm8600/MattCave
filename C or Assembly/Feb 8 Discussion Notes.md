@@ -11,5 +11,6 @@ First thing in Unix is treated as a command
 `diff file_1 file_2` → Compares the two files to see if they are the same
 - `diff -Y` prints out the files side by side
 - allows you to compare two output files and visualize them
+- Diff example: `student.x | diff student_expected_values.txt`
 
 `less file_name` → a more versatile way of reading files than cat or something
