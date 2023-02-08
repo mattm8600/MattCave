@@ -19,3 +19,8 @@ Literals - Explicitly say what the type is during initialization:
 - Ex: `long variable = 3l;` ← Explicitly creates a long
 - Ex 2: `unsigned long varialbe = 3u;` ← Creates a positive value (no sign)
 - Ex 3: `long variable = 0x30;` ← Hexadecimal number
+
+Binary Addition Algorithm
+- Use mod 2 to find that digits number (Ex: 1 + 1 % 2 = 0)
+- Use int division by 2 to find carry of number (Ex: 1 + 1 / 2 = 1)
+- Use twos-compliment to have a negative number in binary

@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,9 +178,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5ae60c9990b25c1",
+  "active": "2ce200e0a97a53b7",
   "lastOpenFiles": [
     "C or Assembly/printf function.md",
+    "C or Assembly/Feb 8 Discussion Notes.md",
     "Differential Equations Notes/Homogeneous ODE.md",
     "Differential Equations Notes/Untitled.md",
     "Differential Equations Notes/Differential Equations.md",
@@ -187,7 +189,6 @@
     "Calendar/2023-01-31 Sync Obsidian with Cloud.md",
     "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf",
     "Differential Equations Notes/RB 2023-01-31 15.00.13 1.pdf",
-    "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf",
-    "Linear Algebra/Introduction to Diff Eq.md"
+    "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf"
   ]
 }
