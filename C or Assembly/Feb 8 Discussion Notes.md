@@ -18,4 +18,4 @@ First thing in Unix is treated as a command
 Literals - Explicitly say what the type is during initialization:
 - Ex: `long variable = 3l;` ← Explicitly creates a long
 - Ex 2: `unsigned long varialbe = 3u;` ← Creates a positive value (no sign)
-- Ex 3: `long variable = 0x30;` ← Hexadecimal number;
+- Ex 3: `long variable = 0x30;` ← Hexadecimal number
