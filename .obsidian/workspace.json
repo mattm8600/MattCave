@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
+                "file": "Materials/Materials Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
+                "file": "Materials/Materials Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
+                "file": "Materials/Materials Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md"
+                "file": "Materials/Materials Engineering.md"
               }
             }
           },
@@ -177,11 +178,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5ae60c9990b25c1",
+  "active": "2ce200e0a97a53b7",
   "lastOpenFiles": [
+    "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
     "Differential Equations Notes/Differential Equations.md",
     "Differential Equations Notes/Homogeneous Linear ODE.md",
-    "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
     "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf",
     "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf",
     "Differential Equations Notes/Linear ODE.md",
