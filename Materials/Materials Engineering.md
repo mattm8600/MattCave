@@ -11,8 +11,9 @@ Chapter 2: Atomic Structure and Inter-atomic Bonding
 [[Hydrogen Bonds]]
 
 Chapter 3: Crystal Structures
-[[Crystalline Materials]] - Notes
+[[Crystalline Materials]]
 [[Crystal Structures]]
+[[Simple Cubic Metals]]
 [[FCC Metals]] - Notes
 [[BCC Metals]] - Notes
 [[HCP Metals]]

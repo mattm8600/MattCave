@@ -2,7 +2,8 @@ This section goes more in depth in the arrangement of [[Crystalline Materials]]
 
 **Crystal Structure Definition:** A commonly accepted description of how atoms / ions of crystalline material are arrayed and repeat.
 
-**Coordination Number Definition:** 
+**Coordination Number Definition:** Number of nearest-neighbors or touching atoms
+
 ## Three Ways to Describe Crystal Structures
 1. [[Crystalline Unit Cell]]
 2. **Packing**
