@@ -1,5 +1,5 @@
 My notes for the introduction to Materials Engineering.
-Chapter 2: Atomic Structure and Interatomic Bonding
+Chapter 2: Atomic Structure and Inter-atomic Bonding
 [[Valence Electrons]]
 [[Quantanization of electron energies]]
 [[Potential Well Model of Solids]]
@@ -12,6 +12,7 @@ Chapter 2: Atomic Structure and Interatomic Bonding
 
 Chapter 3: Crystal Structures
 [[Crystalline Materials]] - Notes
+[[Crystal Structures]]
 [[FCC Metals]] - Notes
 [[BCC Metals]] - Notes
 [[HCP Metals]]

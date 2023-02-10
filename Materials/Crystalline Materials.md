@@ -6,4 +6,6 @@
 ## Crystalline Structures
 Crystal Structures are ordered arrangements that:
 - Satisfy bonding requirements (Ex: The directions of [[Covalent Bonds]])
-- Maximize number per unit volume (Densely packed )
+- Maximize number per unit volume (Densely, regular packed structures tend to have lower energy)
+- Provide electric neutrality if ionic
+- Reflect the symmetry of the materials

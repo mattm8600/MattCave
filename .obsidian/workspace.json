@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Crystalline Materials.md",
+                "file": "Materials/Crystal Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Crystalline Materials.md",
+                "file": "Materials/Crystal Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Crystalline Materials.md",
+                "file": "Materials/Crystal Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Crystalline Materials.md"
+                "file": "Materials/Crystal Structures.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "2ce200e0a97a53b7",
   "lastOpenFiles": [
+    "Materials/Bravais Space Lattice.md",
+    "Materials/Crystal Structures.md",
+    "Materials/Crystalline Unit Cell.md",
     "Materials/Materials Engineering.md",
     "Materials/Crystalline Materials.md",
-    "Materials/Crystalline Unit Cell.md",
     "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
     "Differential Equations Notes/Differential Equations.md",
     "Differential Equations Notes/Homogeneous Linear ODE.md",
     "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf",
-    "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf",
-    "Differential Equations Notes/Linear ODE.md",
-    "C or Assembly/Feb 8 Discussion Notes.md"
+    "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf"
   ]
 }
