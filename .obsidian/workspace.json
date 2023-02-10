@@ -21,25 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Materials Engineering.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "75028d4be4d6efb7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C or Assembly/printf function.md",
+                "file": "Materials/Crystalline Materials.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Crystalline Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Crystalline Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Materials Engineering.md"
+                "file": "Materials/Crystalline Materials.md"
               }
             }
           },
@@ -177,17 +166,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5ae60c9990b25c1",
+  "active": "2ce200e0a97a53b7",
   "lastOpenFiles": [
+    "Materials/Materials Engineering.md",
+    "Materials/Crystalline Materials.md",
+    "Materials/Crystalline Unit Cell.md",
     "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
     "Differential Equations Notes/Differential Equations.md",
     "Differential Equations Notes/Homogeneous Linear ODE.md",
     "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf",
     "Differential Equations Notes/RB 2023-01-31 15.00.46 1.pdf",
     "Differential Equations Notes/Linear ODE.md",
-    "C or Assembly/Feb 8 Discussion Notes.md",
-    "C or Assembly/printf function.md",
-    "Differential Equations Notes/Untitled.md",
-    "Calendar/2023-01-31 Sync Obsidian with Cloud.md"
+    "C or Assembly/Feb 8 Discussion Notes.md"
   ]
 }
