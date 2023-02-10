@@ -1,5 +1,5 @@
 My notes for the introduction to Materials Engineering.
-Chapter 2:
+Chapter 2: Atomic Structure and Interatomic Bonding
 [[Valence Electrons]]
 [[Quantanization of electron energies]]
 [[Potential Well Model of Solids]]
@@ -11,15 +11,15 @@ Chapter 2:
 [[Hydrogen Bonds]]
 
 Chapter 3: Crystal Structures
-[[Crystalline Materials]]
-[[FCC Metals]]
-[[BCC Metals]]
+[[Crystalline Materials]] - Notes
+[[FCC Metals]] - Notes
+[[BCC Metals]] - Notes
 [[HCP Metals]]
-[[Cermaic Crystalline Structures]] - No Notes
+[[Cermaic Crystalline Structures]]
 [[Crystalline Latice Parameter]]
-[[Atomic Packing Factor]]
-[[Crystalline Density]]
+[[Atomic Packing Factor]] - Notes
+[[Crystalline Density]] - Notes
 [[Crystal Systems]]
 [[Crystal Geometry]]
-[[Polycrystalline materials]]
+[[Polycrystalline materials]] - Notes
 [[Allotropy and Polymorphism]]
