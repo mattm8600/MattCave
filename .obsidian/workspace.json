@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Crystal Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Crystal Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Materials Engineering.md"
+                "file": "Materials/Crystal Structures.md"
               }
             }
           },
@@ -178,7 +177,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "761cdc7c644b92a8",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
     "Materials/Crystal Structures.md",
     "Materials/Materials Engineering.md",
