@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARL Cover Letter Outline.md",
+                "file": "ARL Cover Letter.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARL Cover Letter Outline.md",
+                "file": "ARL Cover Letter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARL Cover Letter Outline.md",
+                "file": "ARL Cover Letter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARL Cover Letter Outline.md"
+                "file": "ARL Cover Letter.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "2ce200e0a97a53b7",
   "lastOpenFiles": [
+    "ARL Cover Letter Outline.md",
     "C or Assembly/printf function.md",
     "Materials/Crystal Structures.md",
     "Materials/Materials Engineering.md",
@@ -188,7 +189,6 @@
     "Materials/Bravais Space Lattice.md",
     "Materials/Crystalline Materials.md",
     "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
-    "Differential Equations Notes/Differential Equations.md",
-    "Differential Equations Notes/Homogeneous Linear ODE.md"
+    "Differential Equations Notes/Differential Equations.md"
   ]
 }
