@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C or Assembly/printf function.md",
+                "file": "ARL Cover Letter Outline.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C or Assembly/printf function.md",
+                "file": "ARL Cover Letter Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C or Assembly/printf function.md",
+                "file": "ARL Cover Letter Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C or Assembly/printf function.md"
+                "file": "ARL Cover Letter Outline.md"
               }
             }
           },
@@ -180,6 +180,7 @@
   },
   "active": "2ce200e0a97a53b7",
   "lastOpenFiles": [
+    "C or Assembly/printf function.md",
     "Materials/Crystal Structures.md",
     "Materials/Materials Engineering.md",
     "Materials/Simple Cubic Metals.md",
@@ -188,7 +189,6 @@
     "Materials/Crystalline Materials.md",
     "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
     "Differential Equations Notes/Differential Equations.md",
-    "Differential Equations Notes/Homogeneous Linear ODE.md",
-    "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf"
+    "Differential Equations Notes/Homogeneous Linear ODE.md"
   ]
 }
