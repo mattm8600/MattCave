@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2ce200e0a97a53b7",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
     "ARL Cover Letter Outline.md",
     "C or Assembly/printf function.md",
