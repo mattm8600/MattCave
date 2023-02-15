@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARL Cover Letter.md",
+                "file": "Materials/Materials Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ARL Cover Letter.md",
+                "file": "Materials/Materials Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARL Cover Letter.md",
+                "file": "Materials/Materials Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ARL Cover Letter.md"
+                "file": "Materials/Materials Engineering.md"
               }
             }
           },
@@ -177,8 +178,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5ae60c9990b25c1",
+  "active": "2ce200e0a97a53b7",
   "lastOpenFiles": [
+    "ARL Cover Letter.md",
     "ARL Cover Letter Outline.md",
     "C or Assembly/printf function.md",
     "Materials/Crystal Structures.md",
@@ -187,7 +189,6 @@
     "Materials/Crystalline Unit Cell.md",
     "Materials/Bravais Space Lattice.md",
     "Materials/Crystalline Materials.md",
-    "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md",
-    "Differential Equations Notes/Differential Equations.md"
+    "Differential Equations Notes/Nonhomogeneous 1st Order ODE.md"
   ]
 }
