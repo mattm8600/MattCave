@@ -16,4 +16,12 @@ Power Cycle Efficiency:
 Facilitates heat flow (from cold to hot reservoir) using external work
 ![[Pasted image 20230215223454.png]]
 - Negative net work
-## $$
+## $W_{cycle} = Q_{out}-Q_{in}$
+- The work is being done on the system to reverse heat flow
+## $Q_{in} - Q_{out} = -W_{cycle}$
+
+Efficiency of refrigerator cycle:
+## $\beta = \frac{Q_{in}}{{Q_{out}/Q_{in}}-1}$
+
+Efficiency of heat pump cycle:
+## $\gamma = \frac{1}{1-{Q_{in}/Q_{out}}}$
