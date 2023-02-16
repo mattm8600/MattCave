@@ -63,7 +63,10 @@
     "learne",
     "Nonhomogeneous",
     "ODEs",
-    "polycrystalline"
+    "polycrystalline",
+    "Polytropic",
+    "polytropic",
+    "Isochoric"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
