@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Important Conversion Factors.md",
+                "file": "Thermodynamics/Condution.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Important Conversion Factors.md",
+                "file": "Thermodynamics/Condution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamics/Important Conversion Factors.md",
+                "file": "Thermodynamics/Condution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thermodynamics/Important Conversion Factors.md"
+                "file": "Thermodynamics/Condution.md"
               }
             }
           },
@@ -168,15 +168,15 @@
   },
   "active": "59e0443495ddae0f",
   "lastOpenFiles": [
+    "Thermodynamics/Heat Transfer.md",
     "Thermodynamics/Thermodynamics.md",
+    "Thermodynamics/Condution.md",
+    "Thermodynamics/Important Conversion Factors.md",
     "Thermodynamics/PV Diagrams.md",
     "Thermodynamics/Thermodynamic Energy Concepts.md",
     "Materials/Materials Engineering.md",
     "Thermodynamics/Temperature Scales.md",
     "Thermodynamics/Gauge and Vacuum Pressure.md",
-    "Thermodynamics/Hydrostatics.md",
-    "Thermodynamics/Specific Volume.md",
-    "Thermodynamics/Intensive-Extensive Properties.md",
-    "Intensive/Extensive Properties.md"
+    "Thermodynamics/Hydrostatics.md"
   ]
 }

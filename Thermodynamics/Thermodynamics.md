@@ -12,4 +12,5 @@ Thermodynamics is the subset of physics that studies the relation of Heat and it
 [[Temperature Scales]]
 [[Thermodynamic Energy Concepts]]
 [[PV Diagrams]]
+[[Heat Transfer]]
 [[Energy Analysis of Cycles]]

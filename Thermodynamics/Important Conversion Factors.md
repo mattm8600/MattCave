@@ -4,6 +4,7 @@ $[Energy]$ or $[Work]$ = $[N]*[m]=[J]$
 
 ## Imperial:
 $[Work]= [lb]*[ft]=[BTU]$
+$[BTU] = 778[lb]*[ft]$
+$1$ $hp$ is approximately $2550 \frac{BTU}{hr}$
 
 ## Between SI and Imperial:
-$1 BTU = $
