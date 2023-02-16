@@ -66,7 +66,9 @@
     "polycrystalline",
     "Polytropic",
     "polytropic",
-    "Isochoric"
+    "Isochoric",
+    "Definition",
+    "Mathematical"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",

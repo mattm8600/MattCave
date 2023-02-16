@@ -15,3 +15,5 @@ Sign Convention:
 3. [[Radiation]]
 
 NOTE: Heat flow is **Opposite** to the temperature gradient
+
+Conduction / Convection Example:
