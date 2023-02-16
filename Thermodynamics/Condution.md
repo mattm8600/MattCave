@@ -7,3 +7,13 @@
 Heat diffuses through the contact!
 
 ### Mathematical Representation:
+Heat Flux:
+## $\dot q = -k\frac{dT}{dx}$ 
+- Units: $[W/m^2]$
+
+Heat transfer:
+## $\dot Q = -kA\frac{dT}{dx}$
+- Units: $[W]$
+
+
+

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Condution.md",
+                "file": "Thermodynamics/Heat Transfer.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Condution.md",
+                "file": "Thermodynamics/Heat Transfer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamics/Condution.md",
+                "file": "Thermodynamics/Heat Transfer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thermodynamics/Condution.md"
+                "file": "Thermodynamics/Heat Transfer.md"
               }
             }
           },
@@ -168,9 +168,9 @@
   },
   "active": "59e0443495ddae0f",
   "lastOpenFiles": [
+    "Thermodynamics/Condution.md",
     "Thermodynamics/Heat Transfer.md",
     "Thermodynamics/Thermodynamics.md",
-    "Thermodynamics/Condution.md",
     "Thermodynamics/Important Conversion Factors.md",
     "Thermodynamics/PV Diagrams.md",
     "Thermodynamics/Thermodynamic Energy Concepts.md",
