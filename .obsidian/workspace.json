@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Effective Altruism.md",
+                "file": "Discussion 1 Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Effective Altruism.md",
+                "file": "Discussion 1 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Effective Altruism.md",
+                "file": "Discussion 1 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Effective Altruism.md"
+                "file": "Discussion 1 Notes.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "3523152d77d33eec",
   "lastOpenFiles": [
+    "Effective Altruism.md",
     "RB 2023-01-31 15.00.13 1-page-001.jpg",
     "Thermodynamics/Energy Analysis of Cycles.md",
     "Thermodynamics/Untitled.md",
@@ -186,7 +187,6 @@
     "Thermodynamics/Heat Transfer.md",
     "Thermodynamics/Intensive-Extensive Properties.md",
     "Thermodynamics/Thermodynamics.md",
-    "Thermodynamics/First Law of Thermodynamics.md",
-    "Thermodynamics/Radiation.md"
+    "Thermodynamics/First Law of Thermodynamics.md"
   ]
 }
