@@ -12,3 +12,6 @@
 - Book to check out: The Precipice
 
 - Existential Crisis → You can reverse engineer from worst case scenario to make decisions that avoid it.
+
+- To not let hard numbers dehumanize you → Try making your own personal connections to the people you are helping
+
