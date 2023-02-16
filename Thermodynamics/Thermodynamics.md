@@ -4,5 +4,8 @@ Thermodynamics is the subset of physics that studies the relation of Heat and it
 [[Introduction to Thermodynamics]]
 [[Thermodynamic Systems]]
 [[Control Volumes]]
+[[Intensive-Extensive Properties]]
+[[Specific Volume]]
+[[Hydrostatics]]
 [[Thermodynamic Energy Concepts]]
 [[Energy Analysis of Cycles]]

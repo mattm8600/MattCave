@@ -5,4 +5,4 @@ Reminder of some definitions:
 - Heat → Form of energy that can be transferred between two objects as a result of difference in temperature
 - Temperature → The measure of the average kinetic energy within a medium (Intensive Property)
 - Work → The energy of a system that is transferred to its surroundings
-
+- Property → A macroscopic characteristic that does not depend on the history of the system
