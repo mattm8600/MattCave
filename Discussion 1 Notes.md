@@ -11,4 +11,4 @@
 
 - Book to check out: The Precipice
 
-- Existential Crisis → You can reverse engineer from worst case scenario to make decisions t
+- Existential Crisis → You can reverse engineer from worst case scenario to make decisions that avoid it.
