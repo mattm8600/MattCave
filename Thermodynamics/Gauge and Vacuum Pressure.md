@@ -8,6 +8,6 @@ When we use [[Hydrostatics]] we are finding the **Gauge Pressure**
 
 therefore
 ## $P_{Gauge} = P_{tank} - P_{atm}$
-- Add the atmospheric pressure to gauge pressure to get the absolute pressure
+- **Add the atmospheric pressure to gauge pressure** to get the absolute pressure
 
 ![[Pasted image 20230215210508.png]]
