@@ -14,4 +14,9 @@ Stationary Solution: $y=0$
 ### $dt = \frac{dy}{y^2}$
 ### $t = \int{\frac{1}{y^2}dy}=-\frac{1}{y}+c$
 - This is an implicit solution we want y in terms of t
-Use algebra → $y=\frac{1}{c-t}$
+- Use algebra → $y=\frac{1}{c-t}$
+- Note: You need to provide context with intervals of definition
+**Interval of Definition**
+- $y_i=0$ → $y(t_i) = 0$ 
+- $y_i > 0$ → $y(t_i)$ = $\frac{1}{c-t_i}$ ($-\infty, c$)
+- $y_i < 0$ → $y(t_i)$ = $\frac{1}{c-t_i}$ ($c, \infty$)
