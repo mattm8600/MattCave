@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "77cea0b7e609d822",
@@ -178,6 +179,8 @@
   },
   "active": "3523152d77d33eec",
   "lastOpenFiles": [
+    "Differential Equations Notes/Autonomous ODE.md",
+    "Differential Equations Notes/Differential Equations.md",
     "Thermodynamics/Energy Analysis of Cycles.md",
     "Thermodynamics/Thermodynamics.md",
     "Thermodynamics/Important Conversion Factors.md",
@@ -185,8 +188,6 @@
     "Thermodynamics/Heat Transfer.md",
     "Thermodynamics/Condution.md",
     "Thermodynamics/Convection.md",
-    "Thermodynamics/Introduction to Thermodynamics.md",
-    "Thermodynamics/Control Volumes.md",
-    "Thermodynamics/First Law of Thermodynamics.md"
+    "Thermodynamics/Introduction to Thermodynamics.md"
   ]
 }
