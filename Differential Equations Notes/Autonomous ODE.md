@@ -25,4 +25,4 @@ Stationary Solution: $y=0$
 
 You can visualize these different solutions using [[Phaseline Portraits]]
 
-A graphical interpretation for stationary solutions is that they are vertical asymptotes
+A graphical interpretation for stationary solutions is that they are vertical asymptotes for the solutions
