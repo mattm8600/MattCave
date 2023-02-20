@@ -8,6 +8,11 @@ For [[Autonomous ODE]]s and [[Nonautonomous ODE]] we can represent the solutions
 4. Find out if the stationary solutions are stable, unstable, or semi-stable
 
 ### Stable, Unstable, Semi-stable
-- **Stable** → 
+- **Stable** → If the solutions are trending towards a stationary solution
+	– A positive on left side and negative on right side of stat. soln.
+- **Unstable** → Solutions trending away from a stationary solution
+	– A negative on the left and positive on the right of stat. soln.
+- **Semi-Stable** → Solution trends past a stationary solution
+	– Same signs on both sides of stationary solution
 
 ### Examples:
