@@ -20,3 +20,9 @@ Stationary Solution: $y=0$
 - $y_i=0$ → $y(t_i) = 0$ 
 - $y_i > 0$ → $y(t_i)$ = $\frac{1}{c-t_i}$ ($-\infty, c$)
 - $y_i < 0$ → $y(t_i)$ = $\frac{1}{c-t_i}$ ($c, \infty$)
+	– There are two solutions because the solution isn’t defined at c
+	– Also using initial values solve for c (that’s why it says $t_i$)
+
+You can visualize these different solutions using [[Phaseline Portraits]]
+
+A graphical interpretation for stationary solutions is that they are vertical asymptotes
