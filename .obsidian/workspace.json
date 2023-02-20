@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Equations Notes/Phaseline Portraits.md",
+                "file": "Differential Equations Notes/Population Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Equations Notes/Phaseline Portraits.md",
+                "file": "Differential Equations Notes/Population Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Equations Notes/Phaseline Portraits.md",
+                "file": "Differential Equations Notes/Population Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Equations Notes/Phaseline Portraits.md"
+                "file": "Differential Equations Notes/Population Problems.md"
               }
             }
           },
@@ -179,15 +179,15 @@
   },
   "active": "3523152d77d33eec",
   "lastOpenFiles": [
-    "Differential Equations Notes/Nonautonomous ODE.md",
-    "Differential Equations Notes/Phaseline Portraits.md",
-    "Differential Equations Notes/Autonomous ODE.md",
     "Differential Equations Notes/Differential Equations.md",
+    "Differential Equations Notes/Population Problems.md",
+    "Differential Equations Notes/Tank Problems.md",
+    "Differential Equations Notes/Autonomous ODE.md",
+    "Differential Equations Notes/Phaseline Portraits.md",
+    "Differential Equations Notes/Nonautonomous ODE.md",
     "Thermodynamics/Energy Analysis of Cycles.md",
     "Thermodynamics/Thermodynamics.md",
     "Thermodynamics/Important Conversion Factors.md",
-    "Thermodynamics/Specific Volume.md",
-    "Thermodynamics/Heat Transfer.md",
-    "Thermodynamics/Condution.md"
+    "Thermodynamics/Specific Volume.md"
   ]
 }
