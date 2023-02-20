@@ -9,3 +9,6 @@ Topics:
 [[Autonomous ODE]]
 [[ODE Orders]]
 [[Explicit ODE]]
+[[Tank Problems]]
+[[Population Problems]]
+[[Numeric Methods]]
