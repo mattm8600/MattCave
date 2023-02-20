@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Equations Notes/Differential Equations.md",
+                "file": "Differential Equations Notes/Autonomous ODE.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Equations Notes/Differential Equations.md",
+                "file": "Differential Equations Notes/Autonomous ODE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Equations Notes/Differential Equations.md",
+                "file": "Differential Equations Notes/Autonomous ODE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Equations Notes/Differential Equations.md"
+                "file": "Differential Equations Notes/Autonomous ODE.md"
               }
             }
           },
@@ -179,8 +179,8 @@
   },
   "active": "3523152d77d33eec",
   "lastOpenFiles": [
-    "Differential Equations Notes/Autonomous ODE.md",
     "Differential Equations Notes/Differential Equations.md",
+    "Differential Equations Notes/Autonomous ODE.md",
     "Thermodynamics/Energy Analysis of Cycles.md",
     "Thermodynamics/Thermodynamics.md",
     "Thermodynamics/Important Conversion Factors.md",
