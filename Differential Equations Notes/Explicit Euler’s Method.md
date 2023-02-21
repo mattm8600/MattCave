@@ -10,8 +10,11 @@ Algebraically manipulate this relationship to get:
 - Now we can go step by step using $t_n =t_I +nh$
 
 ### Example: $\frac{dy}{dt} = t^2+y^2$, $y(0)=1$, find $y(.2)$ using $h=.1$
-For step 0:
+For step 0: ($t=0$)
 ### $y_0 = 1$ and $f_0 =0^2+1^2=1$
-then plug these numbers in to find y and f for step 1:
+then plug these numbers in to find y and f for step 1: ($t=.1$)
 ### $y_1 = y_0f_0= 1+ (.1)(1) =1.1$
-### $f_1 = $
+### $f_1 = t_1^2+y_1^2 = (.1)^2+(1.1)^2= 1.22$
+then repeat for step 2
+### $y_2 = y_1f_1=(1.1)(1.22)=1.222$
+Continue this process for each step until you finish 
