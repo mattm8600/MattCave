@@ -11,3 +11,4 @@ Topics:
 [[Population Problems]]
 [[Numeric Methods]]
 [[Partial Fraction Decomposition]]
+[[Explicit Euler’s Method]]

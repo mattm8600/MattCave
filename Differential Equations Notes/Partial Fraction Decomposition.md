@@ -14,4 +14,9 @@ Denominators have three factors → $y$, $2-y$, $2+y$
 Setup into this form
 ## $\frac{A}{y}+\frac{B}{2-y}+\frac{C}{2+y}$
 Solve for A:
-## $A = \frac{1}{(2-y)(2+y)}\vert_{0}$
+## $A = \frac{1}{(2-y)(2+y)}\vert_{0} =\frac{1}{4}$
+## $B=\frac{1}{y(2+y)}\vert_2=1/8$
+## $C=\frac{1}{2(2-y)}\vert_{-2} = \frac{1}{8}$
+Therefore the fraction is:
+## $\frac{1/4}{y} + \frac{1/8}{2-y}+\frac{1/8}{2+y}$
+
