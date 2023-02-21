@@ -7,6 +7,7 @@ Topics:
 [[Homogeneous Linear ODE]]
 [[Nonhomogeneous 1st Order ODE]]
 [[Autonomous ODE]]
+[[First Order ODE]]
 [[Tank Problems]]
 [[Population Problems]]
 [[Numeric Methods]]
