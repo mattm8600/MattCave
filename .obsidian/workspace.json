@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Equations Notes/First Order ODE.md",
+                "file": "Differential Equations Notes/Explicit Euler’s Method.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Equations Notes/First Order ODE.md",
+                "file": "Differential Equations Notes/Explicit Euler’s Method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Equations Notes/First Order ODE.md",
+                "file": "Differential Equations Notes/Explicit Euler’s Method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Equations Notes/First Order ODE.md"
+                "file": "Differential Equations Notes/Explicit Euler’s Method.md"
               }
             }
           },
@@ -169,14 +169,14 @@
   "active": "3523152d77d33eec",
   "lastOpenFiles": [
     "Differential Equations Notes/Differential Equations.md",
+    "Differential Equations Notes/Partial Fraction Decomposition.md",
+    "Differential Equations Notes/Population Problems.md",
+    "Differential Equations Notes/First Order ODE.md",
+    "Differential Equations Notes/Autonomous ODE.md",
+    "Differential Equations Notes/Homogeneous Linear ODE.md",
+    "Differential Equations Notes/Linear ODE.md",
     "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf",
     "Differential Equations Notes/Explicit Euler’s Method.md",
-    "Differential Equations Notes/Partial Fraction Decomposition.md",
-    "Differential Equations Notes/Untitled.md",
-    "RB 2023-01-31 15.00.13 1-page-001.jpg",
-    "Differential Equations Notes/Population Problems.md",
-    "Differential Equations Notes/Tank Problems.md",
-    "Differential Equations Notes/Autonomous ODE.md",
-    "Differential Equations Notes/Phaseline Portraits.md"
+    "Differential Equations Notes/Untitled.md"
   ]
 }
