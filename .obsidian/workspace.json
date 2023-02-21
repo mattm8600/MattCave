@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3523152d77d33eec",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
     "Differential Equations Notes/Differential Equations.md",
     "Differential Equations Notes/Partial Fraction Decomposition.md",
