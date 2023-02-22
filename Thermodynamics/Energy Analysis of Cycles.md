@@ -21,7 +21,7 @@ Facilitates heat flow (from cold to hot reservoir) using external work
 ## $Q_{in} - Q_{out} = -W_{cycle}$
 
 Efficiency of refrigerator cycle:
-## $\beta = \frac{Q_{in}}{{Q_{out}/Q_{in}}-1}$
+## $\beta = \frac{Q_{in}}{{Q_{out}-Q_{in}}}$
 
 Efficiency of heat pump cycle:
 ## $\gamma = \frac{1}{1-{Q_{in}/Q_{out}}}$
