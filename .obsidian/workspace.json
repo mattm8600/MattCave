@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d06fc4d3b1fc1137",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARL Cover Letter Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C or Assembly/Feb 22 Discussion Notes.md",
+                "file": "ARL Cover Letter Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C or Assembly/Feb 22 Discussion Notes.md",
+                "file": "ARL Cover Letter Outline.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C or Assembly/Feb 22 Discussion Notes.md"
+                "file": "ARL Cover Letter Outline.md"
               }
             }
           },
@@ -178,8 +190,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9275d9ea89189d49",
+  "active": "d06fc4d3b1fc1137",
   "lastOpenFiles": [
+    "ARL Cover Letter.md",
     "C or Assembly/Feb 8 Discussion Notes.md",
     "Thermodynamics/Energy Analysis of Cycles.md",
     "Thermodynamics/Thermodynamics.md",
