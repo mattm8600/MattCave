@@ -21,13 +21,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Differential Equations Notes/Explicit Euler’s Method.md",
+                "file": "Thermodynamics/Radiation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Differential Equations Notes/Explicit Euler’s Method.md",
+                "file": "Thermodynamics/Radiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Differential Equations Notes/Explicit Euler’s Method.md",
+                "file": "Thermodynamics/Radiation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Differential Equations Notes/Explicit Euler’s Method.md"
+                "file": "Thermodynamics/Radiation.md"
               }
             }
           },
@@ -165,17 +166,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5ae60c9990b25c1",
+  "active": "3523152d77d33eec",
   "lastOpenFiles": [
+    "Thermodynamics/Heat Transfer.md",
+    "Thermodynamics/Convection.md",
+    "Thermodynamics/Condution.md",
+    "Thermodynamics/Thermodynamics.md",
+    "Differential Equations Notes/Explicit Euler’s Method.md",
     "Differential Equations Notes/Differential Equations.md",
     "Differential Equations Notes/Partial Fraction Decomposition.md",
     "Differential Equations Notes/Population Problems.md",
     "Differential Equations Notes/First Order ODE.md",
-    "Differential Equations Notes/Autonomous ODE.md",
-    "Differential Equations Notes/Homogeneous Linear ODE.md",
-    "Differential Equations Notes/Linear ODE.md",
-    "Differential Equations Notes/0 for t`s we are observing I 1 · 1.pdf",
-    "Differential Equations Notes/Explicit Euler’s Method.md",
-    "Differential Equations Notes/Untitled.md"
+    "Differential Equations Notes/Autonomous ODE.md"
   ]
 }

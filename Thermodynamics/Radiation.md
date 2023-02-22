@@ -4,6 +4,6 @@
 
 ## Mathematical Representation
 ## $\dot q = \epsilon\sigma(T_w^4-T_E^4)$
-where $\sigma$ is Stefan-Boltzmann Constant $5.67E-8 [\frac{W}{m^2*K}]$
+where $\sigma$ is Stefan-Boltzmann Constant $5.67E-8 [\frac{W}{m^2*K^4}]$
 
 
