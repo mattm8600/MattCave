@@ -24,4 +24,4 @@ Efficiency of refrigerator cycle:
 ## $\beta = \frac{Q_{in}}{{Q_{out}-Q_{in}}}$
 
 Efficiency of heat pump cycle:
-## $\gamma = \frac{1}{1-{Q_{in}/Q_{out}}}$
+## $\gamma = \frac{Q_{out}}{{Q_{out}-Q_{in}}}$
