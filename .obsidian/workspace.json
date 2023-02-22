@@ -21,14 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/Energy Analysis of Cycles.md",
+                "file": "C or Assembly/Feb 8 Discussion Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9275d9ea89189d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C or Assembly/Feb 22 Discussion Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/Energy Analysis of Cycles.md",
+                "file": "C or Assembly/Feb 22 Discussion Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamics/Energy Analysis of Cycles.md",
+                "file": "C or Assembly/Feb 22 Discussion Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thermodynamics/Energy Analysis of Cycles.md"
+                "file": "C or Assembly/Feb 22 Discussion Notes.md"
               }
             }
           },
@@ -166,8 +178,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3523152d77d33eec",
+  "active": "9275d9ea89189d49",
   "lastOpenFiles": [
+    "C or Assembly/Feb 8 Discussion Notes.md",
+    "Thermodynamics/Energy Analysis of Cycles.md",
     "Thermodynamics/Thermodynamics.md",
     "Thermodynamics/Heat Transfer.md",
     "Thermodynamics/Radiation.md",
@@ -175,8 +189,6 @@
     "Thermodynamics/Condution.md",
     "Differential Equations Notes/Explicit Euler’s Method.md",
     "Differential Equations Notes/Differential Equations.md",
-    "Differential Equations Notes/Partial Fraction Decomposition.md",
-    "Differential Equations Notes/Population Problems.md",
-    "Differential Equations Notes/First Order ODE.md"
+    "Differential Equations Notes/Partial Fraction Decomposition.md"
   ]
 }
