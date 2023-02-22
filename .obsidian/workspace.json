@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +189,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d06fc4d3b1fc1137",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
+    "Calendar/2023-02-22 Thermo Practice Problems.md",
     "ARL Cover Letter.md",
     "C or Assembly/Feb 8 Discussion Notes.md",
     "Thermodynamics/Energy Analysis of Cycles.md",
