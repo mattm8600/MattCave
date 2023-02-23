@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thermodynamics/PV Diagrams.md",
+                "file": "Thermodynamics/Energy Analysis of Cycles.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thermodynamics/PV Diagrams.md",
+                "file": "Thermodynamics/Energy Analysis of Cycles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thermodynamics/PV Diagrams.md",
+                "file": "Thermodynamics/Energy Analysis of Cycles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thermodynamics/PV Diagrams.md"
+                "file": "Thermodynamics/Energy Analysis of Cycles.md"
               }
             }
           },
@@ -193,6 +193,7 @@
   "active": "3523152d77d33eec",
   "lastOpenFiles": [
     "Thermodynamics/Thermodynamics.md",
+    "Thermodynamics/PV Diagrams.md",
     "Thermodynamics/Gauge and Vacuum Pressure.md",
     "Thermodynamics/First Law of Thermodynamics.md",
     "Thermodynamics/Heat Transfer.md",
