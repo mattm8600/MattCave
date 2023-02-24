@@ -9,4 +9,3 @@ Manometers are devices that measure the pressure of an environment
 A few notes on hydrostatics:
 - The lower point in the hydrostatics equation has the higher pressure
 - Two points at the same level (of the same liquid) have the same pressure
-- 
