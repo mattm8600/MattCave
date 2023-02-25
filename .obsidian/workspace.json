@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9275d9ea89189d49",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
     "Thermodynamics/Thermodynamics.md",
     "Thermodynamics/Heat Transfer.md",
@@ -200,7 +199,7 @@
     "Thermodynamics/PV Diagrams.md",
     "C or Assembly/Feb 8 Discussion Notes.md",
     "Calendar/2023-02-22 Review hydrostatics chapter.md",
-    "Calendar/2023-02-24 Moment of inertia videos.md",
+    "Calendar/2023-02-25 Moment of inertia videos.md",
     "Calendar/2023-02-22 Thermo Lvl 1 Practice.md",
     "ARL Cover Letter.md",
     "Differential Equations Notes/Explicit Euler’s Method.md",
