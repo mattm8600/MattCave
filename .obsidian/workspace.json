@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C or Assembly/Feb 22 Discussion Notes.md",
+                "file": "Thermodynamics/Condution.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C or Assembly/Feb 22 Discussion Notes.md",
+                "file": "Thermodynamics/Condution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C or Assembly/Feb 22 Discussion Notes.md",
+                "file": "Thermodynamics/Condution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C or Assembly/Feb 22 Discussion Notes.md"
+                "file": "Thermodynamics/Condution.md"
               }
             }
           },
@@ -177,8 +178,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5ae60c9990b25c1",
+  "active": "9275d9ea89189d49",
   "lastOpenFiles": [
+    "Thermodynamics/Heat Transfer.md",
+    "Thermodynamics/Convection.md",
+    "Thermodynamics/Thermodynamics.md",
+    "C or Assembly/Feb 22 Discussion Notes.md",
     "Calendar/2023-02-28 Catch up in 220.md",
     "Calendar/2023-03-12 Review Materials.md",
     "Calendar/2023-03-11 Review Materials.md",
@@ -192,12 +197,8 @@
     "Calendar/2023-03-02 Project 4.md",
     "Calendar/2023-03-09 CMSC Exam 1.md",
     "C or Assembly/printf function.md",
-    "C or Assembly/Feb 22 Discussion Notes.md",
     "Thermodynamics/Important Conversion Factors.md",
-    "Thermodynamics/Thermodynamics.md",
-    "Thermodynamics/Heat Transfer.md",
     "Thermodynamics/Radiation.md",
-    "Thermodynamics/Convection.md",
     "Thermodynamics/Condution.md",
     "Thermodynamics/Thermodynamic Energy Concepts.md",
     "Thermodynamics/First Law of Thermodynamics.md",
