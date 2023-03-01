@@ -51,8 +51,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,8 +189,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ebdf1e93822ac6ff",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
+    "Calendar/2023-03-01 Exam Regrade.md",
     "C or Assembly/printf function.md",
     "C or Assembly/March 1st Discussion.md",
     "Thermodynamics/Condution.md",
@@ -216,7 +216,6 @@
     "Calendar/2023-03-02 Project 4.md",
     "Calendar/2023-03-09 CMSC Exam 1.md",
     "Thermodynamics/Important Conversion Factors.md",
-    "Thermodynamics/Radiation.md",
-    "Thermodynamics/Thermodynamic Energy Concepts.md"
+    "Thermodynamics/Radiation.md"
   ]
 }
