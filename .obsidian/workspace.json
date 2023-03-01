@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +177,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9275d9ea89189d49",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
     "Thermodynamics/Heat Transfer.md",
     "Thermodynamics/Convection.md",
