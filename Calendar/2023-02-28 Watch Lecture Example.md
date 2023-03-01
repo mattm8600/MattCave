@@ -1,7 +1,0 @@
----
-title: Watch Lecture Example
-allDay: true
-date: 2023-02-28
-endDate: 2023-03-01
-completed: false
----
