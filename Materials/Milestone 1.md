@@ -8,3 +8,11 @@ Outline:
 	– How does material structure influence design decisions
 
 **Two Pages** even if pictures are included
+
+Environment:
+- 
+
+
+Ex Materials:
+- AVCOAT (silica-phenolic foam)
+	– Small hallow plastic balls, mixed with glass fibers, fused together with epoxy
