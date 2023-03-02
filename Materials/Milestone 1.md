@@ -1,5 +1,5 @@
 Outline:
-- Current state of the art for heat plate materials
+- Current state of the art for heat plate materials [x]
 - Classify their type
 - How bonding affects performance
 - How structure of materials affects performance
