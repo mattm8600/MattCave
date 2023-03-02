@@ -22,7 +22,13 @@ Catastrophic Risks:
 
 Meta-Crisis → Connectedness of all these aforementioned risks
 
-Do we have the power of Gods without h
+Do we have the power of Gods without the wisdom of Gods?
+
+### Our Two Current Attractors:
+1. Catastrophe → Slow and decentralized decision-making, destructive power in too many hands
+2. Dystopia → Centralized and fast choice-making, no individual freedom
+
+
 
 Egregors - Trends that categorize mass behavior
 
