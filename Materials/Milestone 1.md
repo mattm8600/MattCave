@@ -15,7 +15,8 @@ Environment:
 - Reusable
 - Light weight, low cost
 - Smooth Aerodynamic Surface
-- Survive loads of launch acoustics, aerodynamic loading
+- Survive loads of launch acoustics, aerodynamic loading, orbit temperature variations
+	– Survive pyrotechnic shock loads during State Separation
 
 ![[Pasted image 20230302100713.png]]
 
@@ -23,3 +24,6 @@ Ex Materials:
 - AVCOAT (silica-phenolic foam)
 	– Small hallow plastic balls, mixed with glass fibers, fused together with epoxy
 - Silicon tiles on aluminum skin
+
+Aluminum Airframe - Lightweight, good with loading
+Tiles - LI-900 and LI-2200
