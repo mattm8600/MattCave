@@ -26,11 +26,13 @@ Ex Materials:
 - Silicon tiles on aluminum skin
 
 Aluminum Airframe - Lightweight, good with loading
-LI-900 (Silica Glass Fiber)
+LI-900 (Silica Glass Fiber) 
+	- **TYPE: Silicate Ceramic**
 	- Can be heated to 2200 F and plunged in cold water without damage
 	- Not suitable for high stress areas
 	- Cheap and lightweight
 LI-2200
+	- **TYPE: Silicate Ceramic**
 	- Better strength than LI-900
 	- Heavier
 FRCI-12 (Amorphous alumino-boro-silicate fiber)
