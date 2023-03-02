@@ -26,4 +26,16 @@ Ex Materials:
 - Silicon tiles on aluminum skin
 
 Aluminum Airframe - Lightweight, good with loading
-Tiles - LI-900 and LI-2200
+LI-900 (Silica Glass Fiber)
+	- Can be heated to 2200 F and plunged in cold water without damage
+	- Not suitable for high stress areas
+	- Cheap and lightweight
+LI-2200
+	- Better strength than LI-900
+	- Heavier
+FRCI-12 (Amorphous alumino-boro-silicate fiber)
+	- Lighter than LI-2200
+	- Slightly higher thermal conductivity than LI-900
+AETB-8 (FRCI but introduces small quantities of alumina)
+	- Increased thermal stability and conductivity
+	- No significant effects in strength/weight
