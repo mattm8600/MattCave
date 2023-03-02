@@ -16,67 +16,19 @@
             }
           },
           {
-            "id": "f1569cd70108bb5a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Materials/Bravais Space Lattice.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "08e79387b63aab7c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Milestone 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9275d9ea89189d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C or Assembly/printf function.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ebdf1e93822ac6ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C or Assembly/March 1st Discussion.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d06fc4d3b1fc1137",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARL Cover Letter Outline.md",
+                "file": "Discussion 3 Notes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77cea0b7e609d822",
@@ -143,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Milestone 1.md",
+                "file": "Discussion 3 Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Milestone 1.md",
+                "file": "Discussion 3 Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Milestone 1.md"
+                "file": "Discussion 3 Notes.md"
               }
             }
           },
@@ -217,9 +168,12 @@
   },
   "active": "08e79387b63aab7c",
   "lastOpenFiles": [
+    "Effective Altruism.md",
+    "Discussion 3 Notes.md",
+    "Calendar/2023-02-13 Mechanics HW 2.md",
+    "Materials/Milestone 1.md",
     "Images/Pasted image 20230302100713.png",
     "Materials/Bravais Space Lattice.md",
-    "Materials/Milestone 1.md",
     "Calendar/2023-03-01 Exam Regrade.md",
     "C or Assembly/printf function.md",
     "C or Assembly/March 1st Discussion.md",
@@ -240,8 +194,6 @@
     "Calendar/2023-03-14 Materials Exam.md",
     "Calendar/2023-03-03 Mat. Milestone 1.md",
     "Calendar/2023-02-28 Thermo HW.md",
-    "Calendar/2023-03-02 Diff Eq HW 4.md",
-    "Calendar/2023-03-07 Project 5.md",
-    "Calendar/2023-03-02 Project 4.md"
+    "Calendar/2023-03-02 Diff Eq HW 4.md"
   ]
 }
