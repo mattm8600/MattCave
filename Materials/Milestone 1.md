@@ -38,5 +38,5 @@ LI-2200
 	- Heavier
 
 Silicate Ceramics: Covalent Bonds
-- LI-900 is crystalline
+- LI-900, LI-2200 are crystalline
 
