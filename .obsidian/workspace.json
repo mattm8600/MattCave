@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Discussion 3 Notes.md",
+                "file": "Materials/Milestone 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Discussion 3 Notes.md",
+                "file": "Materials/Milestone 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Discussion 3 Notes.md",
+                "file": "Materials/Milestone 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Discussion 3 Notes.md"
+                "file": "Materials/Milestone 1.md"
               }
             }
           },
@@ -168,8 +168,8 @@
   },
   "active": "08e79387b63aab7c",
   "lastOpenFiles": [
-    "Effective Altruism.md",
     "Discussion 3 Notes.md",
+    "Effective Altruism.md",
     "Calendar/2023-02-13 Mechanics HW 2.md",
     "Materials/Milestone 1.md",
     "Images/Pasted image 20230302100713.png",

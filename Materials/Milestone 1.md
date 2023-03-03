@@ -22,6 +22,7 @@ Environment:
 
 Ex Materials:
 - AVCOAT (silica-phenolic foam)
+	– **TYPE: Thermoset Polymer**
 	– Small hallow plastic balls, mixed with glass fibers, fused together with epoxy
 - Silicon tiles on aluminum skin
 
@@ -35,9 +36,7 @@ LI-2200
 	- **TYPE: Silicate Ceramic**
 	- Better strength than LI-900
 	- Heavier
-FRCI-12 (Amorphous alumino-boro-silicate fiber)
-	- Lighter than LI-2200
-	- Slightly higher thermal conductivity than LI-900
-AETB-8 (FRCI but introduces small quantities of alumina)
-	- Increased thermal stability and conductivity
-	- No significant effects in strength/weight
+
+Silicate Ceramics: Covalent Bonds
+- LI-900 is crystalline
+
