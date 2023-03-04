@@ -27,8 +27,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,7 +165,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "08e79387b63aab7c",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
     "Discussion 3 Notes.md",
     "Effective Altruism.md",
