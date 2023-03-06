@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC216/C Scope.md",
+                "file": "CMSC216/Midterm 1 Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC216/C Scope.md",
+                "file": "CMSC216/Midterm 1 Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC216/C Scope.md",
+                "file": "CMSC216/Midterm 1 Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC216/C Scope.md"
+                "file": "CMSC216/Midterm 1 Review.md"
               }
             }
           },
@@ -180,9 +180,11 @@
   },
   "active": "0d47040a31b5407a",
   "lastOpenFiles": [
+    "CMSC216/March 1st Discussion.md",
+    "CMSC216/Basic Concepts.md",
+    "CMSC216/C Scope.md",
     "Images/Pasted image 20230305223623.png",
     "CMSC216/Midterm 1 Review.md",
-    "CMSC216/C Scope.md",
     "CMSC216/C Constants.md",
     "CMSC216/Typedef.md",
     "CMSC216/C Data Types.md",
@@ -193,7 +195,6 @@
     "CMSC216/C Execution.md",
     "CMSC216/C Complilation.md",
     "Images/Pasted image 20230305192817.png",
-    "CMSC216/Basic Concepts.md",
     "Mechanics 2/Midterm 2 Review.md",
     "Calendar/2023-03-10 MECH EXAM.md",
     "Calendar/2023-03-06 Mech HW 5.md",
@@ -210,7 +211,6 @@
     "Images/Pasted image 20230302100713.png",
     "Materials/Bravais Space Lattice.md",
     "Calendar/2023-03-01 Exam Regrade.md",
-    "CMSC216/printf function.md",
-    "CMSC216/March 1st Discussion.md"
+    "CMSC216/printf function.md"
   ]
 }

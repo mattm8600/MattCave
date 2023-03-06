@@ -10,7 +10,7 @@
 Question: What if you have two things of the same name in different files?
 ### Types of Linkage
 - Internal Linkage → All Declarations within one source file refer to one entity
-- External Linkage → All Declarations across source files reger to one entity
+- External Linkage → All Declarations across source files refer to one entity
 - None → All declarations are individual
 
 Ex:
@@ -20,5 +20,9 @@ Ex:
 
 ### Switching Linkage
 - `static` keyword → Gives something with external linkage internal linkage
-- `extern` keyword → Gets access to entity defined somewhere else
-	– 
+- `extern` keyword → Gets access to an entity defined somewhere else
+	–  You need to use it when declaring a variable in a different scope to access it from another file
+
+### Storage
+- Automatic Storage → Remains in memory only while it is in scope
+- Static Storage → Remains in memory while the program is executing
