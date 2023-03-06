@@ -11,3 +11,5 @@
 - [[Functions]]
 - [[Arrays]]
 - [[Structures / Unions]]
+
+Basic pointer stuff, Syntax, bit operators / shifting, arrays
