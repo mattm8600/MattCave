@@ -4,7 +4,7 @@
 - [[C Data Types]]
 - [[Typedef]]
 - [[C Constants]]
-- [[Data]]
+- [[C Scope]]
 - [[Statements]]
 - [[Operators and Expressions]]
 - [[Pointers]]
