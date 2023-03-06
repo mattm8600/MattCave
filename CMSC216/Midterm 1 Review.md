@@ -1,6 +1,7 @@
 - [[Basic Concepts]]
 - [[C Complilation]]
 - [[C Execution]]
+- [[C Data Types]]
 - [[Data]]
 - [[Statements]]
 - [[Operators and Expressions]]
