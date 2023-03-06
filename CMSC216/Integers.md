@@ -20,3 +20,12 @@ Rule about integer sizes: *Long integers are at **least as large** as integers, 
 	– Ex: `'M'` or `'\n'`
 
 ### Enumerated Type
+Values are **symbolic constants** instead of literals
+Ex:
+```c 
+enum Jar_Type { CUP, PINT, QUART,
+	HALF_GALLON, GALLON } 
+```
+- Each value is stored as an integer (Ex: `CUP=0, PINT=1, ...`)
+- You can set individual integer values for each in the definition if you want
+

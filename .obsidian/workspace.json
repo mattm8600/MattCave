@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC216/Integers.md",
+                "file": "CMSC216/Floating Point-Values.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC216/Integers.md",
+                "file": "CMSC216/Floating Point-Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC216/Integers.md",
+                "file": "CMSC216/Floating Point-Values.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC216/Integers.md"
+                "file": "CMSC216/Floating Point-Values.md"
               }
             }
           },
@@ -180,9 +180,10 @@
   },
   "active": "0d47040a31b5407a",
   "lastOpenFiles": [
-    "Images/Pasted image 20230305195043.png",
     "CMSC216/C Data Types.md",
+    "CMSC216/Floating Point-Values.md",
     "CMSC216/Integers.md",
+    "Images/Pasted image 20230305195043.png",
     "CMSC216/Midterm 1 Review.md",
     "CMSC216/C Execution.md",
     "CMSC216/C Complilation.md",
