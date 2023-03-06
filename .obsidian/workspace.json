@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C or Assembly/Feb 8 Discussion Notes.md",
+                "file": "CMSC216/Feb 8 Discussion Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C or Assembly/Midterm 1 Review.md",
+                "file": "CMSC216/C Complilation.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C or Assembly/Midterm 1 Review.md",
+                "file": "CMSC216/C Complilation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C or Assembly/Midterm 1 Review.md",
+                "file": "CMSC216/C Complilation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C or Assembly/Midterm 1 Review.md"
+                "file": "CMSC216/C Complilation.md"
               }
             }
           },
@@ -180,14 +180,17 @@
   },
   "active": "0d47040a31b5407a",
   "lastOpenFiles": [
+    "Images/Pasted image 20230305192817.png",
+    "CMSC216/Midterm 1 Review.md",
+    "CMSC216/C Complilation.md",
+    "CMSC216/Basic Concepts.md",
     "Mechanics 2/Midterm 2 Review.md",
     "Calendar/2023-03-10 MECH EXAM.md",
     "Calendar/2023-03-06 Mech HW 5.md",
-    "C or Assembly/Midterm 1 Review.md",
-    "C or Assembly/Untitled.md",
+    "CMSC216/Untitled.md",
     "Mechanics 2",
     "C or Assembly/Untitled",
-    "C or Assembly/Feb 8 Discussion Notes.md",
+    "CMSC216/Feb 8 Discussion Notes.md",
     "Materials/Untitled.md",
     "Materials/Milestone 1.md",
     "Calendar/2023-03-07 Thermo HW.md",
@@ -197,17 +200,14 @@
     "Images/Pasted image 20230302100713.png",
     "Materials/Bravais Space Lattice.md",
     "Calendar/2023-03-01 Exam Regrade.md",
-    "C or Assembly/printf function.md",
-    "C or Assembly/March 1st Discussion.md",
+    "CMSC216/printf function.md",
+    "CMSC216/March 1st Discussion.md",
     "Thermodynamics/Condution.md",
     "Calendar/2023-03-01 Watch Video 12.5.md",
     "Calendar/2023-03-01 Watch Lecture Example.md",
     "Calendar/2023-02-28 Watch Video 12.md",
     "Calendar/2023-02-28 Watch Video 11.md",
     "Thermodynamics/Heat Transfer.md",
-    "Thermodynamics/Convection.md",
-    "Thermodynamics/Thermodynamics.md",
-    "C or Assembly/Feb 22 Discussion Notes.md",
-    "Calendar/2023-02-28 Catch up in 220.md"
+    "Thermodynamics/Convection.md"
   ]
 }
