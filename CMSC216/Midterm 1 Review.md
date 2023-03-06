@@ -1,5 +1,6 @@
 - [[Basic Concepts]]
 - [[C Complilation]]
+- [[C Execution]]
 - [[Data]]
 - [[Statements]]
 - [[Operators and Expressions]]

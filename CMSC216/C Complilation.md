@@ -14,4 +14,9 @@ Phases of Compilation Process:
 	- Throw warnings / errors if necessary
 3. Generate Object Code
 	- Generates preliminary form of object code
-	- 
+	- Not directly executable - needs to be linked (usually)
+
+## C Filename Conventions
+- Source files (.c) → Contain functions and commonly related definitions
+- Header files (.h) → Contain only definitions
+

@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC216/C Complilation.md",
+                "file": "CMSC216/C Execution.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC216/C Complilation.md",
+                "file": "CMSC216/C Execution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC216/C Complilation.md",
+                "file": "CMSC216/C Execution.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC216/C Complilation.md"
+                "file": "CMSC216/C Execution.md"
               }
             }
           },
@@ -180,9 +180,10 @@
   },
   "active": "0d47040a31b5407a",
   "lastOpenFiles": [
-    "Images/Pasted image 20230305192817.png",
     "CMSC216/Midterm 1 Review.md",
+    "CMSC216/C Execution.md",
     "CMSC216/C Complilation.md",
+    "Images/Pasted image 20230305192817.png",
     "CMSC216/Basic Concepts.md",
     "Mechanics 2/Midterm 2 Review.md",
     "Calendar/2023-03-10 MECH EXAM.md",
