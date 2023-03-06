@@ -2,6 +2,7 @@
 - [[C Complilation]]
 - [[C Execution]]
 - [[C Data Types]]
+- [[Typedef]]
 - [[Data]]
 - [[Statements]]
 - [[Operators and Expressions]]

@@ -76,7 +76,8 @@
     "Egregors",
     "civ",
     "gregors ",
-    "hyperagency"
+    "hyperagency",
+    "typedefs"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",

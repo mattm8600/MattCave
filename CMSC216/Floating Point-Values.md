@@ -10,3 +10,4 @@ All floating point types can store the range of $-10^{37}$ to $10^{37}$
 Examples of Floating point literals:
 ### `3.14159`, `1E10`, `25.`, `6.023e23`
 
+![[Pasted image 20230305220141.png]]
