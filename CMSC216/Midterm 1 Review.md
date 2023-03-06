@@ -3,6 +3,7 @@
 - [[C Execution]]
 - [[C Data Types]]
 - [[Typedef]]
+- [[C Constants]]
 - [[Data]]
 - [[Statements]]
 - [[Operators and Expressions]]
