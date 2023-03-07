@@ -5,5 +5,7 @@ Computer memory is composed of millions of bits, each holding 0 or 1
 
 Implementation of where words are stored is not our problem, but we can assume two things:
 1. Each location in memory is identified by a unique address
-2. Each location in memory contains a value 
+2. Each location in memory contains a value (probably a garbage value)
 
+NOTE: You **cannot** determine type by just looking at the bits
+- You need to see how it's used in a program
