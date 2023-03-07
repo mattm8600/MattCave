@@ -9,8 +9,6 @@
 - [[Pointers]]
 - [[Pointer Arithmetic]]
 - [[Computer Memory]]
-- [[Statements]]
-- [[Operators and Expressions]]
 - [[Pointers]]
 - [[Functions]]
 - [[Arrays]]
