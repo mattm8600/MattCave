@@ -39,8 +39,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,8 +178,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0d47040a31b5407a",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
+    "Calendar/2023-03-09 246 HW 5.md",
+    "Calendar/2023-03-08 MATLAB 2.md",
     "CMSC216/Midterm 1 Review.md",
     "CMSC216/C MD Arrays.md",
     "CMSC216/C 1D Arrays.md",
@@ -215,8 +216,6 @@
     "C or Assembly/Untitled",
     "CMSC216/Feb 8 Discussion Notes.md",
     "Materials/Untitled.md",
-    "Materials/Milestone 1.md",
-    "Calendar/2023-03-07 Thermo HW.md",
     "Images/Pasted image 20230302100713.png"
   ]
 }
