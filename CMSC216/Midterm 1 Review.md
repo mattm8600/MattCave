@@ -5,6 +5,7 @@
 - [[Typedef]]
 - [[C Constants]]
 - [[C Scope]]
+- [[C Operators]]
 - [[Statements]]
 - [[Operators and Expressions]]
 - [[Pointers]]
