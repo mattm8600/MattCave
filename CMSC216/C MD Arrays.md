@@ -18,4 +18,11 @@ int (*mp)[10] = matrix;
 ```
 - pointer points to array of ten integers, pointer arithmetic now scales by the proper amount
 
-To advance their arra
+To advance their array by individual element
+```
+type *p = matrix[i];
+int *pi = matrix[0]
+```
+
+Passing in a MD array into a function as an argument
+`void func(int (*mat)[10] )`
