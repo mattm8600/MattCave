@@ -11,7 +11,8 @@
 - [[Computer Memory]]
 - [[Pointers]]
 - [[C Functions]]
-- [[Arrays]]
+- [[C 1D Arrays]]
+- 
 - [[Structures / Unions]]
 
 Basic pointer stuff, Syntax, bit operators / shifting, arrays
