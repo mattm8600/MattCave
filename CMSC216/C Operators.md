@@ -27,7 +27,28 @@ a ^ b = 01110101
 ```
 
 
-## Compound Assignments
+## Compound Operators
 ```
 +=, -=, *=, /=, %=, <<=, >>=, &=, ^=, |=
 ```
+- Act the same as +=, just wanted to include the others, so I know I can use them
+
+## Unary Operators
+`-`  operator → Produces the negative of its operand
+`&` operator → Produces memory address of operand
+`*` operator → Gets the value of a pointer / memory address
+`sizeof` operator → Determines the size of an operator in bytes
+	– Can also be used for types `sizeof( int )`
+`(type)` operator → Casts the value of expression to another type
+
+## Prefix and Postfix Operators
+`++` or `--` can be used before or after the number is returned
+- Before the operand → Increments before value is used in expression
+- After Operand → Increments after value is used in expression
+![[Pasted image 20230307004940.png]]
+
+## Conditional Operator
+### `expression1 ? expression2 : expression3`
+- expression1 evaluates first
+	– If `expression1` is true, value becomes `expression2`
+	– If `expression1'
