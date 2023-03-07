@@ -10,7 +10,7 @@
 - [[Pointer Arithmetic]]
 - [[Computer Memory]]
 - [[Pointers]]
-- [[Functions]]
+- [[C Functions]]
 - [[Arrays]]
 - [[Structures / Unions]]
 
