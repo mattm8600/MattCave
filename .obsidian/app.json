@@ -79,7 +79,8 @@
     "hyperagency",
     "typedefs",
     "pci",
-    "chang"
+    "chang",
+    "enum"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",

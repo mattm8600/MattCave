@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC216/Structures.md",
+                "file": "CMSC216/Unions.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC216/Structures.md",
+                "file": "CMSC216/Unions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC216/Structures.md",
+                "file": "CMSC216/Unions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC216/Structures.md"
+                "file": "CMSC216/Unions.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   "active": "0d47040a31b5407a",
   "lastOpenFiles": [
     "CMSC216/Midterm 1 Review.md",
+    "CMSC216/Unions.md",
     "CMSC216/Structures.md",
     "CMSC216/C MD Arrays.md",
     "CMSC216/Feb 8 Discussion Notes.md",
@@ -214,7 +215,6 @@
     "Mechanics 2/Midterm 2 Review.md",
     "Calendar/2023-03-10 MECH EXAM.md",
     "Calendar/2023-03-06 Mech HW 5.md",
-    "CMSC216/Untitled.md",
     "Mechanics 2",
     "C or Assembly/Untitled",
     "Images/Pasted image 20230302100713.png"

@@ -29,4 +29,10 @@ typedef struct {
 
 ### Accessing Members
 - You can access members using `.` operator
-- 
+- `->` operator - is used for pointing to a member of a structure
+
+
+Structures store each member one after and another
+- May have gaps in between due to Natural Alignment
+- Total Structure memory doesn’t necessarily equal the sum of member’s storages
+

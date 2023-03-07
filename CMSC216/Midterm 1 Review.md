@@ -14,6 +14,6 @@
 - [[C 1D Arrays]]
 - [[C MD Arrays]]
 - [[Structures]]
-- [[Structures / Unions]]
+- [[Unions]]
 
 Basic pointer stuff, Syntax, bit operators / shifting, arrays
