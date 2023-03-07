@@ -49,6 +49,19 @@ a ^ b = 01110101
 
 ## Conditional Operator
 ### `expression1 ? expression2 : expression3`
-- expression1 evaluates first
+- `expression1` evaluates first
 	– If `expression1` is true, value becomes `expression2`
-	– If `expression1'
+	– If `expression1` is false, value becomes `expression3`
+- Only the correspond one is evaluated
+Ex: `a > 5 ? b - 6 : c /2`
+
+### Comma Operator
+- Allows you to evaluate things in succession (useful when doing multiple things in a loop)
+- Ex: `while( a = get_value(), count_value( a ), a > 0 ) {`
+	– Evaluates all arguments, uses the result of the rightmost expression as result
+
+Boolean → *Zero is false, any nonzero value is true*
+
+Important Notes:
+- You can only do chained assignments of variables with the same size
+- Remember that `&`  and `&&` or `|` and `||` are very different operators
