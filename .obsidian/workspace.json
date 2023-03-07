@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC216/Pointers.md",
+                "file": "CMSC216/Pointer Arithmetic.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC216/Pointers.md",
+                "file": "CMSC216/Pointer Arithmetic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC216/Pointers.md",
+                "file": "CMSC216/Pointer Arithmetic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC216/Pointers.md"
+                "file": "CMSC216/Pointer Arithmetic.md"
               }
             }
           },
@@ -181,10 +181,12 @@
   },
   "active": "0d47040a31b5407a",
   "lastOpenFiles": [
-    "Images/Pasted image 20230307013857.png",
     "CMSC216/Midterm 1 Review.md",
-    "CMSC216/Computer Memory.md",
+    "CMSC216/Pointer Arithmetic.md",
     "CMSC216/Pointers.md",
+    "Images/Pasted image 20230307014759.png",
+    "Images/Pasted image 20230307013857.png",
+    "CMSC216/Computer Memory.md",
     "CMSC216/C Operators.md",
     "Images/Pasted image 20230307004940.png",
     "Images/Pasted image 20230307003201.png",

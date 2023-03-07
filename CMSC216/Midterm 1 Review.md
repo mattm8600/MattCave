@@ -7,6 +7,7 @@
 - [[C Scope]]
 - [[C Operators]]
 - [[Pointers]]
+- [[Pointer Arithmetic]]
 - [[Computer Memory]]
 - [[Statements]]
 - [[Operators and Expressions]]

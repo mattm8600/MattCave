@@ -8,6 +8,8 @@ Following a pointer to the location it points to → **dereferencing**
 Be careful representing pointers with arrows
 - They are only pointing to the value when dereferenced - Otherwise they just point to their memory address
 - Arrow points to the **location**, not the value at the location
+- You can only dereference pointer data types
+- The dereference operator goes from right to left
 
 
 ### Mistake: Pointer points to no memory location
@@ -18,4 +20,12 @@ Be careful representing pointers with arrows
 ### Null Pointer
 **Null pointers** don’t point to anything
 - Specifies when a pointer doesn’t point to anything
-- You
+- You can also return pointers pointing to null if something wasn’t found (for example)
+
+### Pointers to Pointers
+You can point pointers to pointers
+![[Pasted image 20230307014759.png]]
+	– Pointer points to where the pointer is stored in memory
+	– Equivalent to `*(*c)`
+	– `*c` takes us to location where c points (variable b)
+	– `**c` takes us to where b points which is variable a
