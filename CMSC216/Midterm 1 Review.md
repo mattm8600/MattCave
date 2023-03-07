@@ -6,6 +6,8 @@
 - [[C Constants]]
 - [[C Scope]]
 - [[C Operators]]
+- [[Pointers]]
+- [[Computer Memory]]
 - [[Statements]]
 - [[Operators and Expressions]]
 - [[Pointers]]

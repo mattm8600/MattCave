@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC216/Midterm 1 Review.md",
+                "file": "CMSC216/Computer Memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC216/Midterm 1 Review.md",
+                "file": "CMSC216/Computer Memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC216/Midterm 1 Review.md",
+                "file": "CMSC216/Computer Memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC216/Midterm 1 Review.md"
+                "file": "CMSC216/Computer Memory.md"
               }
             }
           },
@@ -181,10 +181,12 @@
   },
   "active": "0d47040a31b5407a",
   "lastOpenFiles": [
+    "CMSC216/Midterm 1 Review.md",
+    "CMSC216/Computer Memory.md",
+    "CMSC216/Pointers.md",
     "CMSC216/C Operators.md",
     "Images/Pasted image 20230307004940.png",
     "Images/Pasted image 20230307003201.png",
-    "CMSC216/Midterm 1 Review.md",
     "CMSC216/March 1st Discussion.md",
     "CMSC216/Basic Concepts.md",
     "CMSC216/C Scope.md",
@@ -213,7 +215,6 @@
     "Effective Altruism.md",
     "Calendar/2023-02-13 Mechanics HW 2.md",
     "Images/Pasted image 20230302100713.png",
-    "Materials/Bravais Space Lattice.md",
-    "Calendar/2023-03-01 Exam Regrade.md"
+    "Materials/Bravais Space Lattice.md"
   ]
 }
