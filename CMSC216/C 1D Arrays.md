@@ -9,4 +9,6 @@ ARRAYS AND POINTERS ARE NOT THE SAME
 Note: `c=&a[0];` and `c=a;`
 
 ## Array Subscripts
-`array[subscipt] = `
+`array[subscipt] = *(array + (subscript) )`
+- Subscripts do pointer addition to produce a pointer to the desired element
+- 
