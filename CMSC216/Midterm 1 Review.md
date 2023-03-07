@@ -12,7 +12,7 @@
 - [[Pointers]]
 - [[C Functions]]
 - [[C 1D Arrays]]
-- 
+- [[C MD Arrays]]
 - [[Structures / Unions]]
 
 Basic pointer stuff, Syntax, bit operators / shifting, arrays

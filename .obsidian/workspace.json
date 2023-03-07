@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC216/C 1D Arrays.md",
+                "file": "CMSC216/C MD Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC216/C 1D Arrays.md",
+                "file": "CMSC216/C MD Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC216/C 1D Arrays.md",
+                "file": "CMSC216/C MD Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC216/C 1D Arrays.md"
+                "file": "CMSC216/C MD Arrays.md"
               }
             }
           },
@@ -182,6 +182,7 @@
   "active": "0d47040a31b5407a",
   "lastOpenFiles": [
     "CMSC216/Midterm 1 Review.md",
+    "CMSC216/C MD Arrays.md",
     "CMSC216/C 1D Arrays.md",
     "CMSC216/C Functions.md",
     "CMSC216/Pointer Arithmetic.md",
@@ -216,7 +217,6 @@
     "Materials/Untitled.md",
     "Materials/Milestone 1.md",
     "Calendar/2023-03-07 Thermo HW.md",
-    "Discussion 3 Notes.md",
     "Images/Pasted image 20230302100713.png"
   ]
 }
