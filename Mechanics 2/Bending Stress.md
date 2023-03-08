@@ -1,4 +1,4 @@
-**Bending stress** (aka flexural stress) is the stress created by the internal bending moment on a beam
+**Bending stress** (aka flexural stress/normal stress) is the stress created by the internal bending moment on a beam
 - Makes up most real world failures
 
 Note the sign conventions of bending stress:
