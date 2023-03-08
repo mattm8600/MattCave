@@ -12,3 +12,10 @@ Note the sign conventions of bending stress:
 - $I$ is the moment of inertia perpendicular to the plane of bending
 - $c$ is the vertical distance above the neutral axis
 	– The greatest distance from the centroid to the edge
+
+Steps:
+1. Find $\bar{y}$ and $I$
+2. Find the reaction forces for the beam
+3. Do your V and M diagrams
+4. Determine c (distance from centroid to the edge) (???)
+5. Plug and chug
