@@ -29,3 +29,11 @@ You can point pointers to pointers
 	– Equivalent to `*(*c)`
 	– `*c` takes us to location where c points (variable b)
 	– `**c` takes us to where b points which is variable a
+
+### Constant Pointers
+You can declare a constant pointer by following this syntax:
+`type * const ptr`
+- Note that dereference operator operates from right to left
+- Therefore since `const ptr` is to the right it makes a constant pointer
+Note:
+`type const * ptr` → This is a pointer pointing to a constant variable
