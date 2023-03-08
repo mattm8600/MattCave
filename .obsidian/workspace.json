@@ -28,6 +28,18 @@
             }
           },
           {
+            "id": "2dc4f4763f0b4076",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics 2/Composite Bending.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9952f069fad6cd5b",
             "type": "leaf",
             "state": {
@@ -45,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics 2/Nail Spacing.md",
+                "file": "Mechanics 2/Direct Shear Stress.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics 2/Bending Stress.md",
+                "file": "Mechanics 2/Composite Bending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics 2/Bending Stress.md",
+                "file": "Mechanics 2/Composite Bending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics 2/Bending Stress.md"
+                "file": "Mechanics 2/Composite Bending.md"
               }
             }
           },
@@ -202,18 +214,21 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "08e79387b63aab7c",
+  "active": "2dc4f4763f0b4076",
   "lastOpenFiles": [
-    "Mechanics 2/Direct Shear Stress.md",
-    "Mechanics 2/Nail Spacing.md",
-    "Mechanics 2/Circular Cross Sections.md",
-    "Images/Pasted image 20230308113741.png",
     "Mechanics 2/Bending Stress.md",
+    "Mechanics 2/Composite Bending.md",
+    "Mechanics 2/Direct Shear Stress.md",
+    "Mechanics 2/Circular Cross Sections.md",
+    "CMSC216/Unions.md",
+    "Images/Pasted image 20230308143629.png",
+    "Images/Pasted image 20230308143621.png",
+    "Mechanics 2/Nail Spacing.md",
+    "Images/Pasted image 20230308113741.png",
     "Mechanics 2/Midterm 2 Review.md",
     "Images/Pasted image 20230308000717.png",
     "CMSC216/Feb 8 Discussion Notes.md",
     "CMSC216/Midterm 1 Review.md",
-    "CMSC216/Unions.md",
     "CMSC216/Structures.md",
     "CMSC216/C MD Arrays.md",
     "Calendar/2023-03-09 246 HW 5.md",
@@ -237,9 +252,6 @@
     "CMSC216/C Data Types.md",
     "CMSC216/Floating Point-Values.md",
     "Images/Pasted image 20230305220141.png",
-    "CMSC216/Integers.md",
-    "Images/Pasted image 20230305195043.png",
-    "Images/Pasted image 20230305192817.png",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]

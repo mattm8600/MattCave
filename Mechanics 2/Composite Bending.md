@@ -1,0 +1,1 @@
+You can strengthen the [[]] (also shear stress but we don’t get into that)

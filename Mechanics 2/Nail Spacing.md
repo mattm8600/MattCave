@@ -9,7 +9,9 @@ where
 - $s$ is the spacing between nails
 - $n$ is the number of nails through the shear line
 - $F_{nail}$ is the max allowable shear force the nail can withstand without failing
+- $Q$ is explained in [[Direct Shear Stress]]
 
 Steps:
 1. Draw shear line through juncture
 2. Calculate $Q$ (and $V$ if not given to you)
+3. Plug and chug
