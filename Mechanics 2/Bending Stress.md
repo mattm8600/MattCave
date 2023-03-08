@@ -19,3 +19,6 @@ Steps:
 3. Do your V and M diagrams
 4. Determine c (distance from centroid to the edge) (???)
 5. Plug and chug
+
+
+NOTE: For $\sigma_{max}$, $c$ is the largest vertical distance from the centroid to the part edge
