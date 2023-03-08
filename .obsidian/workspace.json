@@ -71,8 +71,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -206,8 +205,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "2dc4f4763f0b4076",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
+    "Calendar/2023-03-08 MakeFile Practice Problem.md",
+    "Calendar/2023-03-08 CMSC HW 2.md",
     "Mechanics 2/Composite Bending.md",
     "Mechanics 2/Bending Stress.md",
     "Mechanics 2/Direct Shear Stress.md",
@@ -241,8 +242,6 @@
     "Images/Pasted image 20230305223623.png",
     "CMSC216/C Constants.md",
     "CMSC216/Typedef.md",
-    "CMSC216/C Data Types.md",
-    "CMSC216/Floating Point-Values.md",
     "Images/Pasted image 20230305220141.png",
     "Mechanics 2",
     "C or Assembly/Untitled"
