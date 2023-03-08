@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics 2/Bending Stress.md",
+                "file": "Mechanics 2/Direct Shear Stress.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics 2/Bending Stress.md",
+                "file": "Mechanics 2/Direct Shear Stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics 2/Bending Stress.md",
+                "file": "Mechanics 2/Direct Shear Stress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics 2/Bending Stress.md"
+                "file": "Mechanics 2/Direct Shear Stress.md"
               }
             }
           },
@@ -180,9 +180,10 @@
   },
   "active": "08e79387b63aab7c",
   "lastOpenFiles": [
-    "Images/Pasted image 20230308000717.png",
     "Mechanics 2/Midterm 2 Review.md",
+    "Mechanics 2/Direct Shear Stress.md",
     "Mechanics 2/Bending Stress.md",
+    "Images/Pasted image 20230308000717.png",
     "CMSC216/Feb 8 Discussion Notes.md",
     "CMSC216/Midterm 1 Review.md",
     "CMSC216/Unions.md",

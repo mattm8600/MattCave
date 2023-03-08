@@ -7,6 +7,8 @@ Note the sign conventions of bending stress:
 - Negative Bending Moment → Top is in tension, Bottom is in compression
 
 ## Formula:
-# $\sigma = \frac{-M_z}{I_{zc}}y$
+# $\sigma = \frac{-M_z}{I_{zc}}c$
 - $M$ is the bending moment (from moment diagram)
-- $I
+- $I$ is the moment of inertia perpendicular to the plane of bending
+- $c$ is the vertical distance above the neutral axis
+	– The greatest distance from the centroid to the edge
