@@ -80,7 +80,8 @@
     "typedefs",
     "pci",
     "chang",
-    "enum"
+    "enum",
+    "elasticities"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",

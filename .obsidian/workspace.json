@@ -31,12 +31,8 @@
             "id": "2dc4f4763f0b4076",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics 2/Composite Bending.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -142,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics 2/Composite Bending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics 2/Composite Bending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mechanics 2/Composite Bending.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,8 +208,8 @@
   },
   "active": "2dc4f4763f0b4076",
   "lastOpenFiles": [
-    "Mechanics 2/Bending Stress.md",
     "Mechanics 2/Composite Bending.md",
+    "Mechanics 2/Bending Stress.md",
     "Mechanics 2/Direct Shear Stress.md",
     "Mechanics 2/Circular Cross Sections.md",
     "CMSC216/Unions.md",
