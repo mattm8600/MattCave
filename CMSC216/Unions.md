@@ -5,3 +5,12 @@
 
 Memory is stored inefficiently - takes up the size of the biggest member
 
+### Initialization:
+```c
+union {
+	int a;
+	float b;
+	char c[4];
+} x
+```
+
