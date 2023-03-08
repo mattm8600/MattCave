@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC216/Feb 8 Discussion Notes.md",
+                "file": "Mechanics 2/Bending Stress.md",
                 "mode": "source",
                 "source": false
               }
@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,8 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "77cea0b7e609d822",
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC216/Feb 8 Discussion Notes.md",
+                "file": "Mechanics 2/Bending Stress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC216/Feb 8 Discussion Notes.md",
+                "file": "Mechanics 2/Bending Stress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC216/Feb 8 Discussion Notes.md"
+                "file": "Mechanics 2/Bending Stress.md"
               }
             }
           },
@@ -178,13 +178,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a5ae60c9990b25c1",
+  "active": "08e79387b63aab7c",
   "lastOpenFiles": [
+    "Images/Pasted image 20230308000717.png",
+    "Mechanics 2/Midterm 2 Review.md",
+    "Mechanics 2/Bending Stress.md",
+    "CMSC216/Feb 8 Discussion Notes.md",
     "CMSC216/Midterm 1 Review.md",
     "CMSC216/Unions.md",
     "CMSC216/Structures.md",
     "CMSC216/C MD Arrays.md",
-    "CMSC216/Feb 8 Discussion Notes.md",
     "Calendar/2023-03-09 246 HW 5.md",
     "Calendar/2023-03-08 MATLAB 2.md",
     "CMSC216/C 1D Arrays.md",
@@ -211,9 +214,6 @@
     "CMSC216/C Execution.md",
     "CMSC216/C Complilation.md",
     "Images/Pasted image 20230305192817.png",
-    "Mechanics 2/Midterm 2 Review.md",
-    "Calendar/2023-03-10 MECH EXAM.md",
-    "Calendar/2023-03-06 Mech HW 5.md",
     "Mechanics 2",
     "C or Assembly/Untitled",
     "Images/Pasted image 20230302100713.png"
