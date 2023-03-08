@@ -11,7 +11,7 @@ Note the sign conventions of bending stress:
 - $M$ is the bending moment (from moment diagram)
 - $I$ is the moment of inertia perpendicular to the plane of bending
 - $c$ is the vertical distance above the neutral axis
-	– The greatest distance from the centroid to the edge
+	– The greatest distance from the centroid to point / edge
 
 Steps:
 1. Find $\bar{y}$ and $I$
