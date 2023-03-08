@@ -40,6 +40,18 @@
             }
           },
           {
+            "id": "15596604bcafcf69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mechanics 2/Nail Spacing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0d47040a31b5407a",
             "type": "leaf",
             "state": {
@@ -52,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics 2/Circular Cross Sections.md",
+                "file": "Mechanics 2/Nail Spacing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics 2/Circular Cross Sections.md",
+                "file": "Mechanics 2/Nail Spacing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics 2/Circular Cross Sections.md"
+                "file": "Mechanics 2/Nail Spacing.md"
               }
             }
           },
@@ -191,11 +203,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "9952f069fad6cd5b",
+  "active": "15596604bcafcf69",
   "lastOpenFiles": [
+    "Mechanics 2/Circular Cross Sections.md",
+    "Mechanics 2/Nail Spacing.md",
     "Images/Pasted image 20230308113741.png",
     "Mechanics 2/Direct Shear Stress.md",
-    "Mechanics 2/Circular Cross Sections.md",
     "Mechanics 2/Bending Stress.md",
     "Mechanics 2/Midterm 2 Review.md",
     "Images/Pasted image 20230308000717.png",
@@ -229,7 +242,6 @@
     "Images/Pasted image 20230305195043.png",
     "Images/Pasted image 20230305192817.png",
     "Mechanics 2",
-    "C or Assembly/Untitled",
-    "Images/Pasted image 20230302100713.png"
+    "C or Assembly/Untitled"
   ]
 }
