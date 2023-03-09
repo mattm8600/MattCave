@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CMSC216/C Operators.md",
+                "file": "CMSC216/C MD Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CMSC216/C Operators.md",
+                "file": "CMSC216/C MD Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CMSC216/C Operators.md",
+                "file": "CMSC216/C MD Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CMSC216/C Operators.md"
+                "file": "CMSC216/C MD Arrays.md"
               }
             }
           },
@@ -212,6 +212,8 @@
   },
   "active": "08e79387b63aab7c",
   "lastOpenFiles": [
+    "CMSC216/C Data Types.md",
+    "CMSC216/C Operators.md",
     "CMSC216/C Scope.md",
     "CMSC216/Pointers.md",
     "Mechanics 2/Bending Stress.md",
@@ -239,14 +241,12 @@
     "Images/Pasted image 20230307014759.png",
     "Images/Pasted image 20230307013857.png",
     "CMSC216/Computer Memory.md",
-    "CMSC216/C Operators.md",
     "Images/Pasted image 20230307004940.png",
     "Images/Pasted image 20230307003201.png",
     "CMSC216/March 1st Discussion.md",
     "CMSC216/Basic Concepts.md",
     "Images/Pasted image 20230305223623.png",
     "CMSC216/C Constants.md",
-    "CMSC216/Typedef.md",
     "Images/Pasted image 20230305220141.png",
     "Mechanics 2",
     "C or Assembly/Untitled"

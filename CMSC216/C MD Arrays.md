@@ -26,3 +26,6 @@ int *pi = matrix[0]
 
 Passing in a MD array into a function as an argument
 `void func(int (*mat)[10] )`
+
+NOTE: If using an array initializer you **Can’t** put variables in it
+- Instead set each of the fields equal to the variables

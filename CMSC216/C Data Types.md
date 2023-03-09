@@ -4,3 +4,6 @@
 3. Pointers ← We will go into this later
 4. Aggregate Types (ie arrays and structures)
 
+Notes:
+- Integer types get promoted to at least an int when performing addition / subtraction
+	– Same with multiplication
