@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics 2/Direct Shear Stress.md",
+                "file": "Mechanics 2/Composite Bending.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics 2/Direct Shear Stress.md",
+                "file": "Mechanics 2/Composite Bending.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics 2/Direct Shear Stress.md",
+                "file": "Mechanics 2/Composite Bending.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics 2/Direct Shear Stress.md"
+                "file": "Mechanics 2/Composite Bending.md"
               }
             }
           },
@@ -212,6 +212,8 @@
   },
   "active": "08e79387b63aab7c",
   "lastOpenFiles": [
+    "Mechanics 2/Nail Spacing.md",
+    "Mechanics 2/Direct Shear Stress.md",
     "Mechanics 2/Composite Bending.md",
     "Mechanics 2/Bending Stress.md",
     "Mechanics 2/Circular Cross Sections.md",
@@ -222,11 +224,9 @@
     "CMSC216/Pointers.md",
     "Calendar/2023-03-08 MakeFile Practice Problem.md",
     "Calendar/2023-03-08 CMSC HW 3.md",
-    "Mechanics 2/Direct Shear Stress.md",
     "CMSC216/Unions.md",
     "Images/Pasted image 20230308143629.png",
     "Images/Pasted image 20230308143621.png",
-    "Mechanics 2/Nail Spacing.md",
     "Images/Pasted image 20230308113741.png",
     "Mechanics 2/Midterm 2 Review.md",
     "Images/Pasted image 20230308000717.png",
