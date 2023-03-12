@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Valence Electrons.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Valence Electrons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Valence Electrons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Materials Engineering.md"
+                "file": "Materials/Valence Electrons.md"
               }
             }
           },
@@ -168,8 +168,9 @@
   },
   "active": "4fa2c7945f33602e",
   "lastOpenFiles": [
-    "Materials/Atomic Structure.md",
     "Materials/Materials Engineering.md",
+    "Materials/Valence Electrons.md",
+    "Materials/Atomic Structure.md",
     "Materials/Material Properties.md",
     "Images/Pasted image 20230312173831.png",
     "Materials/Material Mechanical Properties.md",
@@ -198,7 +199,6 @@
     "Images/Pasted image 20230308113741.png",
     "Mechanics 2/Midterm 2 Review.md",
     "Images/Pasted image 20230308000717.png",
-    "CMSC216/Feb 8 Discussion Notes.md",
     "Images/Pasted image 20230307014759.png",
     "Images/Pasted image 20230307013857.png",
     "Images/Pasted image 20230307004940.png",
