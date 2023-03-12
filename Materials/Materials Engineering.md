@@ -25,3 +25,16 @@ Chapter 3: Crystal Structures
 [[Crystal Geometry]]
 [[Polycrystalline materials]] - Notes
 [[Allotropy and Polymorphism]]
+
+Chapter 4: Polymer Structures (L9)
+[[Structure of Polymers]]
+[[Classes of Polymers]]
+[[Melting temperature and glass transition temperature]]
+[[Structural Effects on mechanical behavior]]
+
+Chapter 5: Imperfections in Solids (L10)
+
+Chapter 6: Diffusion (L12)
+
+
+
