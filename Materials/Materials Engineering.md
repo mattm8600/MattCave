@@ -22,7 +22,7 @@ Summary: (L2)
 - Valence electrons occupy the outermost unfilled electron shell
 - Primary bonding types: covalent, ionic, and metallic bonding
 - van der Waals bonds are weaker than primary bonding types
-- Percent Io
+- Percent Ionic Character of covalent-ionic mixed bond depends on electronegativity difference
 [[Valence Electrons]]
 [[Quantanization of electron energies]]
 [[Potential Well Model of Solids]]
@@ -34,6 +34,15 @@ Summary: (L2)
 [[Hydrogen Bonds]]
 
 ## Chapter 3: Crystal Structures
+Summary: L3-L6
+- Metals
+	– Metallic bonding (free electron cloud)
+	– Crystal structure is based on packing a single element
+- Ceramics
+	– Made of compounds
+	– % Ionicity > 20%
+	– Nondirectional Bonding, maintains electrical neutrality
+
 [[Crystalline Materials]]
 [[Crystal Structures]]
 [[Simple Cubic Metals]]
@@ -48,8 +57,17 @@ Summary: (L2)
 [[Crystal Geometry]]
 [[Polycrystalline materials]] - Notes
 [[Allotropy and Polymorphism]]
+[[Miller Indices]]
 
 ## Chapter 4: Polymer Structures (L9)
+Summary: (L7-L9)
+- Polymer chemistry and polymerization
+- Classes of polymers and characteristic behaviors
+- Number-average and weight-average molecular weights
+- Stereoisomers and geometric isomers
+- Crystallinity in polymers
+- Glass transition Temperature
+- Effects of structure, temperature, and time on behavior
 [[Structure of Polymers]]
 [[Classes of Polymers]]
 [[Melting temperature and glass transition temperature]]

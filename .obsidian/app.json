@@ -82,7 +82,9 @@
     "chang",
     "enum",
     "elasticities",
-    "Deteriorative"
+    "Deteriorative",
+    "Ionicity",
+    "Nondirectional"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
