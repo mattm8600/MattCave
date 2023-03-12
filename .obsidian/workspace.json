@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Valence Electrons.md",
+                "file": "Materials/Atomic Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Valence Electrons.md",
+                "file": "Materials/Atomic Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Valence Electrons.md",
+                "file": "Materials/Atomic Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Valence Electrons.md"
+                "file": "Materials/Atomic Structure.md"
               }
             }
           },
@@ -170,6 +170,7 @@
   "lastOpenFiles": [
     "Materials/Materials Engineering.md",
     "Materials/Valence Electrons.md",
+    "Images/Pasted image 20230312194856.png",
     "Materials/Atomic Structure.md",
     "Materials/Material Properties.md",
     "Images/Pasted image 20230312173831.png",
@@ -197,13 +198,11 @@
     "Images/Pasted image 20230308143629.png",
     "Images/Pasted image 20230308143621.png",
     "Images/Pasted image 20230308113741.png",
-    "Mechanics 2/Midterm 2 Review.md",
     "Images/Pasted image 20230308000717.png",
     "Images/Pasted image 20230307014759.png",
     "Images/Pasted image 20230307013857.png",
     "Images/Pasted image 20230307004940.png",
     "Images/Pasted image 20230307003201.png",
-    "Images/Pasted image 20230305223623.png",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
