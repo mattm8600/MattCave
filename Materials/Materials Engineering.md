@@ -1,11 +1,11 @@
 My notes for the introduction to Materials Engineering.
 
-Matierals science
+Materials Science:
 - Investigate relationships between structures and properties of materials
 - Create new materials
-Materials Enginer
-
-
+Materials Engineering:
+- Create products from existing materials
+- Develop materials processing techniques
 
 ## Chapter 1: Introduction
 Summary: (L1)
@@ -15,11 +15,8 @@ Summary: (L1)
 - Six material properties: Mechanical, Electrical, Thermal, Magnetic, Optical, Deteriorative
 
 [[Materials Selection]]
-[[Material Mechanical Properties]]
-[[Material Electrical Properties]]
-[[Material Thermal Properties]]
-[[Optical Properties]]
-[[Deteriorative Properties]]
+[[Material Properties]]
+
 
 ## Chapter 2: Atomic Structure and Inter-atomic Bonding
 Summary: (L2)
@@ -28,6 +25,7 @@ Summary: (L2)
 - Primary bonding types: covalent, ionic, and metallic bonding
 - van der Waals bonds are weaker than primary bonding types
 - Percent Ionic Character of covalent-ionic mixed bond depends on electronegativity difference
+[[Atomic Structure]]
 [[Valence Electrons]]
 [[Quantanization of electron energies]]
 [[Potential Well Model of Solids]]

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Atomic Structure.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Atomic Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Atomic Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Materials Engineering.md"
+                "file": "Materials/Atomic Structure.md"
               }
             }
           },
@@ -168,8 +168,12 @@
   },
   "active": "4fa2c7945f33602e",
   "lastOpenFiles": [
-    "Materials/Materials Selection.md",
     "Materials/Materials Engineering.md",
+    "Materials/Atomic Structure.md",
+    "Materials/Material Properties.md",
+    "Images/Pasted image 20230312173831.png",
+    "Materials/Material Mechanical Properties.md",
+    "Materials/Materials Selection.md",
     "Materials/Structure of Polymers.md",
     "Calendar/2023-03-12 Mechanics Videos.md",
     "Calendar/2023-03-14 Project 6.md",
@@ -195,15 +199,11 @@
     "Mechanics 2/Midterm 2 Review.md",
     "Images/Pasted image 20230308000717.png",
     "CMSC216/Feb 8 Discussion Notes.md",
-    "CMSC216/Midterm 1 Review.md",
-    "CMSC216/Structures.md",
-    "Calendar/2023-03-09 246 HW 5.md",
     "Images/Pasted image 20230307014759.png",
     "Images/Pasted image 20230307013857.png",
     "Images/Pasted image 20230307004940.png",
     "Images/Pasted image 20230307003201.png",
     "Images/Pasted image 20230305223623.png",
-    "Images/Pasted image 20230305220141.png",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
