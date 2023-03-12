@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mechanics 2/Composite Bending.md",
+                "file": "Mechanics 2/Circular Cross Sections.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics 2/Composite Bending.md",
+                "file": "Mechanics 2/Circular Cross Sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics 2/Composite Bending.md",
+                "file": "Mechanics 2/Circular Cross Sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mechanics 2/Composite Bending.md"
+                "file": "Mechanics 2/Circular Cross Sections.md"
               }
             }
           },
@@ -212,9 +212,9 @@
   },
   "active": "08e79387b63aab7c",
   "lastOpenFiles": [
+    "Mechanics 2/Composite Bending.md",
     "Mechanics 2/Nail Spacing.md",
     "Mechanics 2/Direct Shear Stress.md",
-    "Mechanics 2/Composite Bending.md",
     "Mechanics 2/Bending Stress.md",
     "Mechanics 2/Circular Cross Sections.md",
     "CMSC216/C MD Arrays.md",
