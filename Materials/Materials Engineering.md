@@ -1,5 +1,12 @@
 My notes for the introduction to Materials Engineering.
 
+Matierals science
+- Investigate relationships between structures and properties of materials
+- Create new materials
+Materials Enginer
+
+
+
 ## Chapter 1: Introduction
 Summary: (L1)
 - Material Properties depend on their structures
@@ -7,8 +14,6 @@ Summary: (L1)
 - Three classifications of materials: metals, ceramics, polymers
 - Six material properties: Mechanical, Electrical, Thermal, Magnetic, Optical, Deteriorative
 
-
-[[Importance of Material Selection]]
 [[Materials Selection]]
 [[Material Mechanical Properties]]
 [[Material Electrical Properties]]
@@ -80,6 +85,7 @@ Summary: (L7-L9)
 [[Specifying Composition]]
 [[Line Defects]]
 [[Planar Defects]]
+
 Chapter 6: Diffusion (L12)
 
 

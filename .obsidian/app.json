@@ -84,7 +84,8 @@
     "elasticities",
     "Deteriorative",
     "Ionicity",
-    "Nondirectional"
+    "Nondirectional",
+    "Stereoisomers"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
