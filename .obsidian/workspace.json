@@ -14,65 +14,8 @@
               "type": "full-calendar-view",
               "state": {}
             }
-          },
-          {
-            "id": "08e79387b63aab7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics 2/Circular Cross Sections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dc4f4763f0b4076",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9952f069fad6cd5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics 2/Circular Cross Sections.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "15596604bcafcf69",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mechanics 2/Direct Shear Stress.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0d47040a31b5407a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CMSC216/Unions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -138,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mechanics 2/Circular Cross Sections.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mechanics 2/Circular Cross Sections.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Mechanics 2/Circular Cross Sections.md"
-              }
+              "state": {}
             }
           },
           {
@@ -210,13 +149,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "08e79387b63aab7c",
+  "active": "a5ae60c9990b25c1",
   "lastOpenFiles": [
+    "Calendar/2023-03-14 Project 6.md",
+    "Calendar/2023-03-15 Mech HW 6.md",
+    "Calendar/2023-03-14 Thermo HW 6.md",
+    "Calendar/2023-03-16 Thermo Exam.md",
+    "Mechanics 2/Circular Cross Sections.md",
     "Mechanics 2/Composite Bending.md",
     "Mechanics 2/Nail Spacing.md",
     "Mechanics 2/Direct Shear Stress.md",
     "Mechanics 2/Bending Stress.md",
-    "Mechanics 2/Circular Cross Sections.md",
     "CMSC216/C MD Arrays.md",
     "CMSC216/C Data Types.md",
     "CMSC216/C Operators.md",
@@ -240,13 +183,9 @@
     "CMSC216/Pointer Arithmetic.md",
     "Images/Pasted image 20230307014759.png",
     "Images/Pasted image 20230307013857.png",
-    "CMSC216/Computer Memory.md",
     "Images/Pasted image 20230307004940.png",
     "Images/Pasted image 20230307003201.png",
-    "CMSC216/March 1st Discussion.md",
-    "CMSC216/Basic Concepts.md",
     "Images/Pasted image 20230305223623.png",
-    "CMSC216/C Constants.md",
     "Images/Pasted image 20230305220141.png",
     "Mechanics 2",
     "C or Assembly/Untitled"
