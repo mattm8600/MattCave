@@ -86,7 +86,8 @@
     "Ionicity",
     "Nondirectional",
     "Stereoisomers",
-    "eteriorative\n"
+    "eteriorative\n",
+    "mol"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
