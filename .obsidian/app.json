@@ -81,7 +81,8 @@
     "pci",
     "chang",
     "enum",
-    "elasticities"
+    "elasticities",
+    "Deteriorative"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
