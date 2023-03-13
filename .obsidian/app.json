@@ -96,7 +96,11 @@
     "CaO",
     "MgO",
     "Perovskite",
-    "Homopolymers"
+    "Homopolymers",
+    "Crosslinked",
+    "crosslinked",
+    "nonreversible",
+    "Syndiotactic"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",

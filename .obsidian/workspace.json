@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Structure of Polymers.md",
+                "file": "Materials/Materials Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Structure of Polymers.md",
+                "file": "Materials/Materials Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Structure of Polymers.md",
+                "file": "Materials/Materials Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Structure of Polymers.md"
+                "file": "Materials/Materials Engineering.md"
               }
             }
           },
@@ -167,30 +167,31 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
+    "Materials/Polydispersity Index.md",
+    "Materials/Materials Engineering.md",
+    "Materials/Polymer Configurations.md",
+    "Images/Pasted image 20230313163546.png",
+    "Images/Pasted image 20230313163339.png",
+    "Images/Pasted image 20230313163334.png",
+    "Materials/Structure of Polymers.md",
+    "Images/Pasted image 20230313163102.png",
+    "Images/Pasted image 20230313162914.png",
     "Images/Pasted image 20230313162720.png",
     "Images/Pasted image 20230313162509.png",
-    "Materials/Materials Engineering.md",
     "Materials/Degree of Polymerization.md",
     "Images/Pasted image 20230313162322.png",
     "Materials/Polymer Molecular Weight.md",
     "Images/Pasted image 20230313162003.png",
     "Materials/Polymers.md",
     "Images/Pasted image 20230313161351.png",
-    "Images/Pasted image 20230313161344.png",
-    "Materials/Structure of Polymers.md",
     "Materials/Materials Selection.md",
     "Mechanics 2/Midterm 2 Review.md",
     "Materials/Isotropy and Anisotropy.md",
-    "Images/Pasted image 20230313005117.png",
     "Materials/Crystal Systems.md",
-    "Images/Pasted image 20230313004927.png",
     "Materials/Density for ceramics.md",
     "Materials/Cermaic Crystalline Structures.md",
-    "Images/Pasted image 20230313004601.png",
     "Materials/AX3 Type Crystal Structure.md",
-    "Images/Pasted image 20230313004434.png",
     "Materials/AX2 Type Crystal Structure.md",
-    "Images/Pasted image 20230313004140.png",
     "Materials/AX Type Crystal Structures.md",
     "Materials/Atomic Packing Factor.md",
     "Materials/Density for Metals.md",
@@ -202,7 +203,6 @@
     "Materials/Hydrogen Bonds.md",
     "Materials/Van der Waals Bond.md",
     "Materials/Metallic Bonds.md",
-    "Materials/Mixed Bonding.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]

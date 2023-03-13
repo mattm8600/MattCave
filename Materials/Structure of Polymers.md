@@ -13,4 +13,17 @@ Similar to linear polymers, but it splits into multiple side branches
 - Chain packing efficiency is decreased → Lower density
 - Ex: Low-density Polyethylene
 
-## Crossli
+## Crosslinked Polymers
+Linear chains are joined together using covalent bonds
+![[Pasted image 20230313162914.png]]
+- Crosslinking is done during synthesis or in a nonreversible reaction
+- Most rubbers are crosslinked
+
+## Network Polymers
+Polymers connected by a 3D network of (three or more) covalent bonds
+![[Pasted image 20230313163102.png]]
+- Highly crosslinked polymers can also be classified as network polymers
+- Examples: Epoxies, polyurethanes
+
+
+NOTE: Polymers usually don’t have distinctive structural types
