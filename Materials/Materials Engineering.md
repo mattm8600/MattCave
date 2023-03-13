@@ -79,7 +79,6 @@ Summary: (L7-L9)
 [[Copolymer]]
 [[Polymer Crystallinity]]
 [[Melting temperature and glass transition temperature]]
-[[Structural Effects on mechanical behavior]]
 
 ## Chapter 5: Imperfections in Solids (L10)
 [[Equilibrium Point Defects]]
