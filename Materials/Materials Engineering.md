@@ -73,7 +73,10 @@ Summary: (L7-L9)
 [[Polydispersity Index]]
 [[Structure of Polymers]]
 [[Polymer Configurations]]
-[[Classes of Polymers]]
+[[Geometric Isomerism]]
+[[Thermoplastic Polymer]]
+[[Thermosetting Polymer]]
+[[Copolt]]
 [[Melting temperature and glass transition temperature]]
 [[Structural Effects on mechanical behavior]]
 

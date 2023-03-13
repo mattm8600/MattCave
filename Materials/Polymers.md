@@ -9,5 +9,4 @@ Ex:
 ![[Pasted image 20230313161344.png]]  to ![[Pasted image 20230313161351.png]]
 
 **Homopolymers** → All repeating units on chain are of the same type
-**Copolymers** → When chains are created from multiple different repeat units
 
