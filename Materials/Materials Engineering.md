@@ -69,6 +69,7 @@ Summary: (L7-L9)
 - Effects of structure, temperature, and time on behavior
 [[Polymers]]
 [[Polymer Molecular Weight]]
+[[Degree of Polymerization]]
 [[Structure of Polymers]]
 [[Classes of Polymers]]
 [[Melting temperature and glass transition temperature]]
