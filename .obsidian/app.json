@@ -89,7 +89,12 @@
     "eteriorative\n",
     "mol",
     "where",
-    "Avagrado"
+    "Avagrado",
+    "Blende",
+    "NiO",
+    "FeO",
+    "CaO",
+    "MgO"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",

@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Cermaic Crystalline Structures.md",
+                "file": "Materials/AX Type Crystal Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Cermaic Crystalline Structures.md",
+                "file": "Materials/AX Type Crystal Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Cermaic Crystalline Structures.md",
+                "file": "Materials/AX Type Crystal Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Cermaic Crystalline Structures.md"
+                "file": "Materials/AX Type Crystal Structures.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
-    "Materials/Materials Engineering.md",
+    "Images/Pasted image 20230313003239.png",
     "Materials/Cermaic Crystalline Structures.md",
+    "Materials/AX Type Crystal Structures.md",
+    "Materials/Materials Engineering.md",
+    "Images/Pasted image 20230313002905.png",
     "Materials/Atomic Packing Factor.md",
     "Materials/Density for Metals.md",
     "Materials/HCP Metals.md",
@@ -193,7 +196,6 @@
     "Images/Pasted image 20230312201020.png",
     "Materials/Periodic Table.md",
     "Materials/Atomic Structure.md",
-    "Images/Pasted image 20230312195850.png",
     "Materials/Valence Electrons.md",
     "Materials/Material Properties.md",
     "Materials/Material Mechanical Properties.md",
@@ -201,8 +203,6 @@
     "Materials/Structure of Polymers.md",
     "Calendar/2023-03-12 Mechanics Videos.md",
     "Calendar/2023-03-14 Project 6.md",
-    "Calendar/2023-03-15 Mech HW 6.md",
-    "Calendar/2023-03-14 Thermo HW 6.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]

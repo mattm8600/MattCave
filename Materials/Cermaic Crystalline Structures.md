@@ -10,3 +10,13 @@ Factors that determine crystal structures of ionic ceramics
 ### Coordination Number
 - Coordination number (for ionic ceramics) is related to atomic radii
 ## $CN=\frac{r_{cation}}{r_{anion}}$
+
+![[Pasted image 20230313002905.png]]
+Tetrahedral Shape → Zinc Blende Structure
+Octahedral Shape → Sodium Chloride Structure
+Cubic Shape → Cesium Chloride
+
+Ceramic Crystal Structures:
+[[AX Type Crystal Structures]]
+[[AX2 Type Crystal Structure]]
+[[AX3 Type Crystal Structure]]
