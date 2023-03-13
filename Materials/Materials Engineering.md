@@ -76,7 +76,8 @@ Summary: (L7-L9)
 [[Geometric Isomerism]]
 [[Thermoplastic Polymer]]
 [[Thermosetting Polymer]]
-[[Copolt]]
+[[Copolymer]]
+[[Polymer Crystallinity]]
 [[Melting temperature and glass transition temperature]]
 [[Structural Effects on mechanical behavior]]
 

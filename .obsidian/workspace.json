@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Polymer Crystallinity.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Polymer Crystallinity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Polymer Crystallinity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Materials Engineering.md"
+                "file": "Materials/Polymer Crystallinity.md"
               }
             }
           },
@@ -167,8 +167,14 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
-    "Materials/Polymers.md",
     "Materials/Materials Engineering.md",
+    "Materials/Polymer Crystallinity.md",
+    "Materials/Copolymer.md",
+    "Images/Pasted image 20230313165131.png",
+    "Images/Pasted image 20230313165104.png",
+    "Images/Pasted image 20230313165040.png",
+    "Images/Pasted image 20230313165012.png",
+    "Materials/Polymers.md",
     "Materials/Thermosetting Polymer.md",
     "Materials/Thermoplastic Polymer.md",
     "Materials/Geometric Isomerism.md",
@@ -181,11 +187,7 @@
     "Images/Pasted image 20230313163334.png",
     "Materials/Structure of Polymers.md",
     "Images/Pasted image 20230313163102.png",
-    "Images/Pasted image 20230313162914.png",
-    "Images/Pasted image 20230313162720.png",
-    "Images/Pasted image 20230313162509.png",
     "Materials/Degree of Polymerization.md",
-    "Images/Pasted image 20230313162322.png",
     "Materials/Polymer Molecular Weight.md",
     "Materials/Materials Selection.md",
     "Mechanics 2/Midterm 2 Review.md",
@@ -201,8 +203,6 @@
     "Materials/HCP Metals.md",
     "Materials/FCC Metals.md",
     "Materials/BCC Metals.md",
-    "Materials/Simple Cubic Metals.md",
-    "Materials/Crystal Structures.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
