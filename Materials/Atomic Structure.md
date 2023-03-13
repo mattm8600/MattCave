@@ -10,11 +10,14 @@ amu - atoms or molecules (1/12 the atomic mass of Carbon) = 1g/mol
 - Called the potential energy well
 
 The shape of the bond energy curve influences the melting point, vaporization point, elastic modulus, and the coefficient of thermal expansion.
-- Steeper slope or tighter well means the bonds are stronger
-	– Also means higher melting / vapor point
 
+Steeper, narrow wells correspond to:
+- Higher bond energy
+- Higher melting and vaporization point
+- Higher Elastic Modulus
+- Lower coefficient of thermal expansion
+^ These [[Material Properties]] are dependent on bonding
 
 ![[Pasted image 20230312195850.png]]
 The elastic modulus is the slope of the force 
-
 

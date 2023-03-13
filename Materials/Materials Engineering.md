@@ -27,11 +27,9 @@ Summary: (L2)
 - Percent Ionic Character of covalent-ionic mixed bond depends on electronegativity difference
 [[Atomic Structure]]
 [[Valence Electrons]]
-[[Quantanization of electron energies]]
-[[Potential Well Model of Solids]]
-[[Periodic Table]]
 [[Ionic Bonds]]
 [[Covalent Bonds]]
+[[Mixed Bonding]]
 [[Metallic Bonds]]
 [[Van der Waals Bond]]
 [[Hydrogen Bonds]]
