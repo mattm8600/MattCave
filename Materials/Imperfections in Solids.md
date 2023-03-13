@@ -18,4 +18,7 @@ Terminology:
 **Solid Solutions** are homogeneous → Defects randomly dispersed throughout the solid
 Several features of the solvent and solute determine which dissolves:
 - *Atomic Size Factor* → The difference in atomic radii needs to be around $\pm 15$%
-- *Crystal Structure* → 
+- *Crystal Structure* → The crystal structures of both metals need to be the same
+- *Electronegativity Factor* → The more electronegative the elements are the more likely they are to create a new compound as opposed to a **solid solution**
+- *Valences* → A metal has more a tendency to dissolve into one with a higher valency than lower
+
