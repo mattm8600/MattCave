@@ -53,7 +53,7 @@ Summary: L3-L6
 [[Cermaic Crystalline Structures]]
 [[Crystalline Latice Parameter]]
 [[Atomic Packing Factor]] - Notes
-[[Crystalline Density]] - Notes
+[[Density for Metals]] - Notes
 [[Crystal Systems]]
 [[Crystal Geometry]]
 [[Polycrystalline materials]] - Notes
