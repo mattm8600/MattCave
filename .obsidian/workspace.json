@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/FCC Metals.md",
+                "file": "Materials/BCC Metals.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/FCC Metals.md",
+                "file": "Materials/BCC Metals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/FCC Metals.md",
+                "file": "Materials/BCC Metals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/FCC Metals.md"
+                "file": "Materials/BCC Metals.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
+    "Images/Pasted image 20230313000647.png",
     "Materials/Materials Engineering.md",
+    "Materials/BCC Metals.md",
     "Materials/FCC Metals.md",
+    "Images/Pasted image 20230313000204.png",
     "Materials/Simple Cubic Metals.md",
     "Materials/Crystal Structures.md",
     "Materials/Hydrogen Bonds.md",
@@ -190,7 +193,6 @@
     "Materials/Valence Electrons.md",
     "Images/Pasted image 20230312194856.png",
     "Materials/Material Properties.md",
-    "Images/Pasted image 20230312173831.png",
     "Materials/Material Mechanical Properties.md",
     "Materials/Materials Selection.md",
     "Materials/Structure of Polymers.md",
@@ -201,8 +203,6 @@
     "Calendar/2023-03-16 Thermo Exam.md",
     "Mechanics 2/Circular Cross Sections.md",
     "Mechanics 2/Composite Bending.md",
-    "Mechanics 2/Nail Spacing.md",
-    "Mechanics 2/Direct Shear Stress.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
