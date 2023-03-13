@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Density for ceramics.md",
+                "file": "Materials/Materials Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Density for ceramics.md",
+                "file": "Materials/Materials Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Density for ceramics.md",
+                "file": "Materials/Materials Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Density for ceramics.md"
+                "file": "Materials/Materials Engineering.md"
               }
             }
           },
@@ -167,7 +167,11 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
+    "Materials/Isotropy and Anisotropy.md",
+    "Images/Pasted image 20230313005117.png",
     "Materials/Materials Engineering.md",
+    "Materials/Crystal Systems.md",
+    "Images/Pasted image 20230313004927.png",
     "Materials/Density for ceramics.md",
     "Materials/Cermaic Crystalline Structures.md",
     "Images/Pasted image 20230313004601.png",
@@ -185,9 +189,7 @@
     "Materials/Density for Metals.md",
     "Materials/HCP Metals.md",
     "Materials/FCC Metals.md",
-    "Images/Pasted image 20230313001026.png",
     "Materials/BCC Metals.md",
-    "Images/Pasted image 20230313000647.png",
     "Materials/Simple Cubic Metals.md",
     "Materials/Crystal Structures.md",
     "Materials/Hydrogen Bonds.md",
@@ -200,9 +202,6 @@
     "Materials/Atomic Structure.md",
     "Materials/Valence Electrons.md",
     "Materials/Material Properties.md",
-    "Materials/Material Mechanical Properties.md",
-    "Materials/Materials Selection.md",
-    "Materials/Structure of Polymers.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]

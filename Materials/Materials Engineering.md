@@ -55,9 +55,7 @@ Summary: L3-L6
 [[Density for Metals]] - Notes
 [[Density for ceramics]]
 [[Crystal Systems]]
-[[Crystal Geometry]]
-[[Polycrystalline materials]] - Notes
-[[Allotropy and Polymorphism]]
+[[Isotropy and Anisotropy]]
 [[Miller Indices]]
 
 ## Chapter 4: Polymer Structures (L9)
