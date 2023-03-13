@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Structure of Polymers.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Structure of Polymers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Structure of Polymers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Materials Engineering.md"
+                "file": "Materials/Structure of Polymers.md"
               }
             }
           },
@@ -167,9 +167,10 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
+    "Materials/Materials Engineering.md",
+    "Materials/Structure of Polymers.md",
     "Materials/Materials Selection.md",
     "Mechanics 2/Midterm 2 Review.md",
-    "Materials/Materials Engineering.md",
     "Materials/Isotropy and Anisotropy.md",
     "Images/Pasted image 20230313005117.png",
     "Materials/Crystal Systems.md",
@@ -202,7 +203,6 @@
     "Materials/Ionic Bonds.md",
     "Materials/Periodic Table.md",
     "Materials/Atomic Structure.md",
-    "Materials/Valence Electrons.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
