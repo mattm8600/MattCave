@@ -100,7 +100,9 @@
     "Crosslinked",
     "crosslinked",
     "nonreversible",
-    "Syndiotactic"
+    "Syndiotactic",
+    "Schottky",
+    "Nonstiochometry"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
