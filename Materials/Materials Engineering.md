@@ -81,6 +81,7 @@ Summary: (L7-L9)
 [[Melting temperature and glass transition temperature]]
 
 ## Chapter 5: Imperfections in Solids (L10)
+[[Imperfections in Solids]]
 [[Equilibrium Point Defects]]
 [[Non-equilibrium point defects]]
 [[Solid Solutions]]
