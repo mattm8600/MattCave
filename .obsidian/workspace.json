@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Structure of Polymers.md",
+                "file": "Materials/Polymer Molecular Weight.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Structure of Polymers.md",
+                "file": "Materials/Polymer Molecular Weight.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Structure of Polymers.md",
+                "file": "Materials/Polymer Molecular Weight.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Structure of Polymers.md"
+                "file": "Materials/Polymer Molecular Weight.md"
               }
             }
           },
@@ -168,6 +168,10 @@
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
     "Materials/Materials Engineering.md",
+    "Materials/Polymer Molecular Weight.md",
+    "Materials/Polymers.md",
+    "Images/Pasted image 20230313161351.png",
+    "Images/Pasted image 20230313161344.png",
     "Materials/Structure of Polymers.md",
     "Materials/Materials Selection.md",
     "Mechanics 2/Midterm 2 Review.md",
@@ -186,8 +190,6 @@
     "Images/Pasted image 20230313004004.png",
     "Images/Pasted image 20230313003955.png",
     "Images/Pasted image 20230313003827.png",
-    "Images/Pasted image 20230313003239.png",
-    "Images/Pasted image 20230313002905.png",
     "Materials/Atomic Packing Factor.md",
     "Materials/Density for Metals.md",
     "Materials/HCP Metals.md",
@@ -201,8 +203,6 @@
     "Materials/Mixed Bonding.md",
     "Materials/Covalent Bonds.md",
     "Materials/Ionic Bonds.md",
-    "Materials/Periodic Table.md",
-    "Materials/Atomic Structure.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]

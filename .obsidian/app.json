@@ -95,7 +95,8 @@
     "FeO",
     "CaO",
     "MgO",
-    "Perovskite"
+    "Perovskite",
+    "Homopolymers"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",

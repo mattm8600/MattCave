@@ -67,6 +67,8 @@ Summary: (L7-L9)
 - Crystallinity in polymers
 - Glass transition Temperature
 - Effects of structure, temperature, and time on behavior
+[[Polymers]]
+[[Polymer Molecular Weight]]
 [[Structure of Polymers]]
 [[Classes of Polymers]]
 [[Melting temperature and glass transition temperature]]
