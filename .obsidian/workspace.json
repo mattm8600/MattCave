@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Van der Waals Bond.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Van der Waals Bond.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/Van der Waals Bond.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Materials Engineering.md"
+                "file": "Materials/Van der Waals Bond.md"
               }
             }
           },
@@ -167,9 +167,15 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
+    "Images/Pasted image 20230312202412.png",
+    "Materials/Materials Engineering.md",
+    "Materials/Van der Waals Bond.md",
+    "Materials/Metallic Bonds.md",
+    "Images/Pasted image 20230312202020.png",
+    "Materials/Mixed Bonding.md",
+    "Images/Pasted image 20230312201945.png",
     "Materials/Covalent Bonds.md",
     "Images/Pasted image 20230312201414.png",
-    "Materials/Materials Engineering.md",
     "Materials/Ionic Bonds.md",
     "Images/Pasted image 20230312201020.png",
     "Materials/Periodic Table.md",
@@ -195,13 +201,8 @@
     "Mechanics 2/Bending Stress.md",
     "CMSC216/C MD Arrays.md",
     "CMSC216/C Data Types.md",
-    "CMSC216/C Operators.md",
-    "CMSC216/C Scope.md",
-    "CMSC216/Pointers.md",
     "Images/Pasted image 20230308143629.png",
     "Images/Pasted image 20230308143621.png",
-    "Images/Pasted image 20230308113741.png",
-    "Images/Pasted image 20230308000717.png",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
