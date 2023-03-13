@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Atomic Packing Factor.md",
+                "file": "Materials/Cermaic Crystalline Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Atomic Packing Factor.md",
+                "file": "Materials/Cermaic Crystalline Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Atomic Packing Factor.md",
+                "file": "Materials/Cermaic Crystalline Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Atomic Packing Factor.md"
+                "file": "Materials/Cermaic Crystalline Structures.md"
               }
             }
           },
@@ -168,6 +168,7 @@
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
     "Materials/Materials Engineering.md",
+    "Materials/Cermaic Crystalline Structures.md",
     "Materials/Atomic Packing Factor.md",
     "Materials/Density for Metals.md",
     "Materials/HCP Metals.md",
@@ -202,7 +203,6 @@
     "Calendar/2023-03-14 Project 6.md",
     "Calendar/2023-03-15 Mech HW 6.md",
     "Calendar/2023-03-14 Thermo HW 6.md",
-    "Calendar/2023-03-16 Thermo Exam.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
