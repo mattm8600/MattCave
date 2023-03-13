@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/FCC Metals.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/FCC Metals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Materials Engineering.md",
+                "file": "Materials/FCC Metals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Materials Engineering.md"
+                "file": "Materials/FCC Metals.md"
               }
             }
           },
@@ -167,9 +167,12 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
+    "Materials/Materials Engineering.md",
+    "Materials/FCC Metals.md",
+    "Materials/Simple Cubic Metals.md",
+    "Materials/Crystal Structures.md",
     "Materials/Hydrogen Bonds.md",
     "Images/Pasted image 20230312202816.png",
-    "Materials/Materials Engineering.md",
     "Materials/Van der Waals Bond.md",
     "Images/Pasted image 20230312202412.png",
     "Materials/Metallic Bonds.md",
@@ -200,8 +203,6 @@
     "Mechanics 2/Composite Bending.md",
     "Mechanics 2/Nail Spacing.md",
     "Mechanics 2/Direct Shear Stress.md",
-    "Mechanics 2/Bending Stress.md",
-    "CMSC216/C MD Arrays.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
