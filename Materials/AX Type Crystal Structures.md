@@ -5,5 +5,15 @@
 - Typical Ceramics: $MgO$, $CaO$, $FeO$, $NiO$
 
 ## Type 2: Cesium Chloride Structure
-- Created from [[Simple Cubic Metals]] arrangment with cation in center and anions in corners
-- 
+![[Pasted image 20230313003827.png]]
+- Created from [[Simple Cubic Metals]] arrangement with cation in center and anions in corners
+- Coordination Number: 8
+
+## Type 3: Zinc Blende
+![[Pasted image 20230313004004.png]]
+- Atomic bonds may be covalent or ionic
+- Ions/Atoms touch along body diagonals
+- Coordination Number: 4
+- Common Ceramics: $ZnS$ and $SiC$
+
+

@@ -20,3 +20,5 @@ Ceramic Crystal Structures:
 [[AX Type Crystal Structures]]
 [[AX2 Type Crystal Structure]]
 [[AX3 Type Crystal Structure]]
+
+![[Pasted image 20230313004601.png]]

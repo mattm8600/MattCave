@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/AX Type Crystal Structures.md",
+                "file": "Materials/Density for ceramics.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/AX Type Crystal Structures.md",
+                "file": "Materials/Density for ceramics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/AX Type Crystal Structures.md",
+                "file": "Materials/Density for ceramics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/AX Type Crystal Structures.md"
+                "file": "Materials/Density for ceramics.md"
               }
             }
           },
@@ -167,10 +167,19 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
-    "Images/Pasted image 20230313003239.png",
-    "Materials/Cermaic Crystalline Structures.md",
-    "Materials/AX Type Crystal Structures.md",
     "Materials/Materials Engineering.md",
+    "Materials/Density for ceramics.md",
+    "Materials/Cermaic Crystalline Structures.md",
+    "Images/Pasted image 20230313004601.png",
+    "Materials/AX3 Type Crystal Structure.md",
+    "Images/Pasted image 20230313004434.png",
+    "Materials/AX2 Type Crystal Structure.md",
+    "Images/Pasted image 20230313004140.png",
+    "Materials/AX Type Crystal Structures.md",
+    "Images/Pasted image 20230313004004.png",
+    "Images/Pasted image 20230313003955.png",
+    "Images/Pasted image 20230313003827.png",
+    "Images/Pasted image 20230313003239.png",
     "Images/Pasted image 20230313002905.png",
     "Materials/Atomic Packing Factor.md",
     "Materials/Density for Metals.md",
@@ -179,21 +188,14 @@
     "Images/Pasted image 20230313001026.png",
     "Materials/BCC Metals.md",
     "Images/Pasted image 20230313000647.png",
-    "Images/Pasted image 20230313000204.png",
     "Materials/Simple Cubic Metals.md",
     "Materials/Crystal Structures.md",
     "Materials/Hydrogen Bonds.md",
-    "Images/Pasted image 20230312202816.png",
     "Materials/Van der Waals Bond.md",
-    "Images/Pasted image 20230312202412.png",
     "Materials/Metallic Bonds.md",
-    "Images/Pasted image 20230312202020.png",
     "Materials/Mixed Bonding.md",
-    "Images/Pasted image 20230312201945.png",
     "Materials/Covalent Bonds.md",
-    "Images/Pasted image 20230312201414.png",
     "Materials/Ionic Bonds.md",
-    "Images/Pasted image 20230312201020.png",
     "Materials/Periodic Table.md",
     "Materials/Atomic Structure.md",
     "Materials/Valence Electrons.md",
@@ -201,8 +203,6 @@
     "Materials/Material Mechanical Properties.md",
     "Materials/Materials Selection.md",
     "Materials/Structure of Polymers.md",
-    "Calendar/2023-03-12 Mechanics Videos.md",
-    "Calendar/2023-03-14 Project 6.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]

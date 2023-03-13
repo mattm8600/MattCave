@@ -51,9 +51,9 @@ Summary: L3-L6
 [[BCC Metals]] - Notes
 [[HCP Metals]]
 [[Cermaic Crystalline Structures]]
-[[Crystalline Latice Parameter]]
 [[Atomic Packing Factor]] - Notes
 [[Density for Metals]] - Notes
+[[Density for ceramics]]
 [[Crystal Systems]]
 [[Crystal Geometry]]
 [[Polycrystalline materials]] - Notes

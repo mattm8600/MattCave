@@ -94,7 +94,8 @@
     "NiO",
     "FeO",
     "CaO",
-    "MgO"
+    "MgO",
+    "Perovskite"
   ],
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
