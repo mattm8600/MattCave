@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Cermaic Crystalline Structures.md",
+                "file": "Materials/Isotropy and Anisotropy.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Cermaic Crystalline Structures.md",
+                "file": "Materials/Isotropy and Anisotropy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Cermaic Crystalline Structures.md",
+                "file": "Materials/Isotropy and Anisotropy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Cermaic Crystalline Structures.md"
+                "file": "Materials/Isotropy and Anisotropy.md"
               }
             }
           },
@@ -168,6 +168,14 @@
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
     "Materials/Materials Engineering.md",
+    "Materials/Crystal Systems.md",
+    "Materials/Density for ceramics.md",
+    "Materials/Density for Metals.md",
+    "Materials/Atomic Packing Factor.md",
+    "Materials/Cermaic Crystalline Structures.md",
+    "Materials/AX3 Type Crystal Structure.md",
+    "Materials/AX2 Type Crystal Structure.md",
+    "Materials/AX Type Crystal Structures.md",
     "Materials/HCP Metals.md",
     "Materials/FCC Metals.md",
     "Materials/BCC Metals.md",
@@ -189,20 +197,12 @@
     "Materials/Linear Defects.md",
     "Images/Pasted image 20230313200535.png",
     "Images/Pasted image 20230313200437.png",
-    "Materials/Imperfections in Solids.md",
-    "Materials/Point Defects in Ceramics.md",
     "Images/Pasted image 20230313175538.png",
     "Images/Pasted image 20230313175422.png",
     "Images/Pasted image 20230313175244.png",
     "Images/Pasted image 20230313175236.png",
-    "Materials/Point Defects in Metals.md",
     "Images/Pasted image 20230313175056.png",
     "Images/Pasted image 20230313174937.png",
-    "Materials/Melting temperature and glass transition temperature.md",
-    "Materials/Polymer Crystallinity.md",
-    "Materials/Copolymer.md",
-    "Materials/Polymers.md",
-    "Materials/Thermosetting Polymer.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
