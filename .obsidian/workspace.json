@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Isotropy and Anisotropy.md",
+                "file": "Materials/Point Defects in Ceramics.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Isotropy and Anisotropy.md",
+                "file": "Materials/Point Defects in Ceramics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Isotropy and Anisotropy.md",
+                "file": "Materials/Point Defects in Ceramics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Isotropy and Anisotropy.md"
+                "file": "Materials/Point Defects in Ceramics.md"
               }
             }
           },
@@ -168,6 +168,19 @@
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
     "Materials/Materials Engineering.md",
+    "Materials/Point Defects in Metals.md",
+    "Materials/Imperfections in Solids.md",
+    "Materials/Copolymer.md",
+    "Materials/Thermosetting Polymer.md",
+    "Materials/Thermoplastic Polymer.md",
+    "Materials/Geometric Isomerism.md",
+    "Materials/Polymer Configurations.md",
+    "Materials/Structure of Polymers.md",
+    "Materials/Polydispersity Index.md",
+    "Materials/Polymer Molecular Weight.md",
+    "Materials/Crystal Structures.md",
+    "Materials/Polymers.md",
+    "Materials/Isotropy and Anisotropy.md",
     "Materials/Crystal Systems.md",
     "Materials/Density for ceramics.md",
     "Materials/Density for Metals.md",
@@ -179,22 +192,9 @@
     "Materials/HCP Metals.md",
     "Materials/FCC Metals.md",
     "Materials/BCC Metals.md",
-    "Materials/Crystal Structures.md",
     "Materials/Crystalline Materials.md",
-    "Materials/Materials Selection.md",
-    "Materials/Hydrogen Bonds.md",
-    "Materials/Van der Waals Bond.md",
-    "Materials/Metallic Bonds.md",
-    "Materials/Mixed Bonding.md",
-    "Materials/Covalent Bonds.md",
-    "Materials/Ionic Bonds.md",
-    "Materials/Valence Electrons.md",
-    "Materials/Material Properties.md",
-    "Materials/Atomic Structure.md",
-    "Materials/Planar Defects.md",
     "Images/Pasted image 20230313202035.png",
     "Images/Pasted image 20230313201706.png",
-    "Materials/Linear Defects.md",
     "Images/Pasted image 20230313200535.png",
     "Images/Pasted image 20230313200437.png",
     "Images/Pasted image 20230313175538.png",
