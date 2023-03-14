@@ -84,8 +84,6 @@ Summary: (L7-L9)
 [[Imperfections in Solids]]
 [[Point Defects in Metals]]
 [[Point Defects in Ceramics]]
-[[Equilibrium Point Defects]]
-[[Non-equilibrium point defects]]
 [[Linear Defects]]
 [[Planar Defects]]
 
