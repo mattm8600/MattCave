@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Atomic Structure.md",
+                "file": "Materials/Covalent Bonds.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Atomic Structure.md",
+                "file": "Materials/Covalent Bonds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Atomic Structure.md",
+                "file": "Materials/Covalent Bonds.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Atomic Structure.md"
+                "file": "Materials/Covalent Bonds.md"
               }
             }
           },
@@ -168,6 +168,10 @@
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
     "Materials/Materials Engineering.md",
+    "Materials/Ionic Bonds.md",
+    "Materials/Valence Electrons.md",
+    "Materials/Material Properties.md",
+    "Materials/Atomic Structure.md",
     "Materials/Planar Defects.md",
     "Images/Pasted image 20230313202035.png",
     "Images/Pasted image 20230313201706.png",
@@ -199,9 +203,6 @@
     "Mechanics 2/Midterm 2 Review.md",
     "Materials/Isotropy and Anisotropy.md",
     "Materials/Crystal Systems.md",
-    "Materials/Density for ceramics.md",
-    "Materials/Cermaic Crystalline Structures.md",
-    "Materials/AX3 Type Crystal Structure.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
