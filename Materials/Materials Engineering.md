@@ -86,9 +86,7 @@ Summary: (L7-L9)
 [[Point Defects in Ceramics]]
 [[Equilibrium Point Defects]]
 [[Non-equilibrium point defects]]
-[[Solid Solutions]]
-[[Specifying Composition]]
-[[Line Defects]]
+[[Linear Defects]]
 [[Planar Defects]]
 
 Chapter 6: Diffusion (L12)

@@ -32,4 +32,7 @@ There are two ways to express the composition (aka concentration) of their eleme
 2. **Atom Percent**
 ## $C'_i=\frac{n_{mi}}{\sum n_m}*100$
 ### where $n_{mi} = \frac{m'_i}{A_i}$
-- Basically a mole 
+- Basically a mole concentration
+
+*Note*: To convert between the two compositions
+## $C'_i=\frac{C_iA_j}{C_iA_j+C_jA_i}*100$

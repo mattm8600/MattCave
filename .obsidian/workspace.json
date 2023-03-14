@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Imperfections in Solids.md",
+                "file": "Materials/Linear Defects.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Imperfections in Solids.md",
+                "file": "Materials/Linear Defects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Imperfections in Solids.md",
+                "file": "Materials/Linear Defects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Imperfections in Solids.md"
+                "file": "Materials/Linear Defects.md"
               }
             }
           },
@@ -167,7 +167,10 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
+    "Images/Pasted image 20230313200535.png",
+    "Images/Pasted image 20230313200437.png",
     "Materials/Materials Engineering.md",
+    "Materials/Linear Defects.md",
     "Materials/Imperfections in Solids.md",
     "Materials/Point Defects in Ceramics.md",
     "Images/Pasted image 20230313175538.png",
@@ -183,7 +186,6 @@
     "Materials/Copolymer.md",
     "Images/Pasted image 20230313165131.png",
     "Images/Pasted image 20230313165104.png",
-    "Images/Pasted image 20230313165040.png",
     "Materials/Polymers.md",
     "Materials/Thermosetting Polymer.md",
     "Materials/Thermoplastic Polymer.md",
@@ -201,7 +203,6 @@
     "Materials/Cermaic Crystalline Structures.md",
     "Materials/AX3 Type Crystal Structure.md",
     "Materials/AX2 Type Crystal Structure.md",
-    "Materials/AX Type Crystal Structures.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
