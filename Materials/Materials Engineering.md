@@ -86,7 +86,7 @@ Summary: (L7-L9)
 [[Point Defects in Ceramics]]
 [[Linear Defects]]
 [[Planar Defects]]
-
+[[Microstructure]]
 Chapter 6: Diffusion (L12)
 
 
