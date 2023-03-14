@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Point Defects in Ceramics.md",
+                "file": "Materials/Materials Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Point Defects in Ceramics.md",
+                "file": "Materials/Materials Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Point Defects in Ceramics.md",
+                "file": "Materials/Materials Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Point Defects in Ceramics.md"
+                "file": "Materials/Materials Engineering.md"
               }
             }
           },
@@ -167,8 +167,11 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
+    "Materials/Planar Defects.md",
     "Materials/Materials Engineering.md",
+    "Materials/Linear Defects.md",
     "Materials/Point Defects in Metals.md",
+    "Materials/Point Defects in Ceramics.md",
     "Materials/Imperfections in Solids.md",
     "Materials/Copolymer.md",
     "Materials/Thermosetting Polymer.md",
@@ -190,9 +193,6 @@
     "Materials/AX2 Type Crystal Structure.md",
     "Materials/AX Type Crystal Structures.md",
     "Materials/HCP Metals.md",
-    "Materials/FCC Metals.md",
-    "Materials/BCC Metals.md",
-    "Materials/Crystalline Materials.md",
     "Images/Pasted image 20230313202035.png",
     "Images/Pasted image 20230313201706.png",
     "Images/Pasted image 20230313200535.png",
