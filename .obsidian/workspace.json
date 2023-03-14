@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Covalent Bonds.md",
+                "file": "Materials/Materials Engineering.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Covalent Bonds.md",
+                "file": "Materials/Materials Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Covalent Bonds.md",
+                "file": "Materials/Materials Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Covalent Bonds.md"
+                "file": "Materials/Materials Engineering.md"
               }
             }
           },
@@ -167,7 +167,13 @@
   },
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
+    "Materials/Materials Selection.md",
     "Materials/Materials Engineering.md",
+    "Materials/Hydrogen Bonds.md",
+    "Materials/Van der Waals Bond.md",
+    "Materials/Metallic Bonds.md",
+    "Materials/Mixed Bonding.md",
+    "Materials/Covalent Bonds.md",
     "Materials/Ionic Bonds.md",
     "Materials/Valence Electrons.md",
     "Materials/Material Properties.md",
@@ -197,12 +203,6 @@
     "Materials/Polydispersity Index.md",
     "Materials/Polymer Configurations.md",
     "Materials/Structure of Polymers.md",
-    "Materials/Degree of Polymerization.md",
-    "Materials/Polymer Molecular Weight.md",
-    "Materials/Materials Selection.md",
-    "Mechanics 2/Midterm 2 Review.md",
-    "Materials/Isotropy and Anisotropy.md",
-    "Materials/Crystal Systems.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
