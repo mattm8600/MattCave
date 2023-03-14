@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Materials/Crystalline Materials.md",
+                "file": "Materials/Cermaic Crystalline Structures.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Materials/Crystalline Materials.md",
+                "file": "Materials/Cermaic Crystalline Structures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Materials/Crystalline Materials.md",
+                "file": "Materials/Cermaic Crystalline Structures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Materials/Crystalline Materials.md"
+                "file": "Materials/Cermaic Crystalline Structures.md"
               }
             }
           },
@@ -168,6 +168,11 @@
   "active": "c323f84c96c3d1a8",
   "lastOpenFiles": [
     "Materials/Materials Engineering.md",
+    "Materials/HCP Metals.md",
+    "Materials/FCC Metals.md",
+    "Materials/BCC Metals.md",
+    "Materials/Crystal Structures.md",
+    "Materials/Crystalline Materials.md",
     "Materials/Materials Selection.md",
     "Materials/Hydrogen Bonds.md",
     "Materials/Van der Waals Bond.md",
@@ -198,11 +203,6 @@
     "Materials/Copolymer.md",
     "Materials/Polymers.md",
     "Materials/Thermosetting Polymer.md",
-    "Materials/Thermoplastic Polymer.md",
-    "Materials/Geometric Isomerism.md",
-    "Materials/Polydispersity Index.md",
-    "Materials/Polymer Configurations.md",
-    "Materials/Structure of Polymers.md",
     "Mechanics 2",
     "C or Assembly/Untitled"
   ]
