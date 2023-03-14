@@ -21,3 +21,7 @@ Steeper, narrow wells correspond to:
 ![[Pasted image 20230312195850.png]]
 The elastic modulus is the slope of the force 
 
+### CTE
+Coefficient of thermal Expansion → How the size of an object changes with change in temperature
+# $\frac{x_e-x_0}{x_0}=\alpha \Delta T$
+where $\alpha$ is the coefficient of thermal expansion
